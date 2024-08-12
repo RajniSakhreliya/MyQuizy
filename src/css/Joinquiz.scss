@@ -1,0 +1,231 @@
+.Joinquiz {
+    background-color: #0f131c;
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    font-weight: 200;
+    flex-direction: column;
+    height: auto;
+    overflow-y: scroll;
+    padding-top: 58px;
+
+    .Joinquiz-componet {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-self: center;
+        text-align: center;
+        width: 90%;
+        padding: 5px;
+        max-width: 90%;
+
+        .Joinquiz-img {
+            margin-top: 20px;
+            display: flex;
+            flex-direction: row;
+            font-weight: 100 !important;
+
+            .contentImg {
+                width: 70px;
+                height: 70px;
+                object-fit: contain;
+            }
+        }
+
+        .Joinquiz-condensing {
+            font-size: 14px;
+            margin-top: 20px;
+            text-align: center;
+            justify-content: center;
+        }
+
+        .JoinQuiz-componet {
+            width: 90%;
+            max-width: 90%;
+            display: flex;
+            justify-content: center;
+            margin: auto;
+
+            button {
+                // box-shadow: inset 9px 9px 14px -2px rgba(188, 188, 188, 0.48), inset -9px -9px 14px -2px rgba(0, 0, 0, 0.48);
+                background: #0BCBFF;
+                background: linear-gradient(to top, #0BCBFF, #fff);
+                border: none;
+                outline: none;
+                width: 100%;
+                color: #000;
+                border-radius: 5px;
+                animation: heartbeat 2s ease-in-out infinite;
+                font-size: 8px;
+                box-shadow: none !important;
+                padding: 0%;
+
+                @keyframes heartbeat {
+                    from {
+                        transform: scale(1);
+                        transform-origin: center center;
+                        animation-timing-function: ease-out;
+                    }
+
+                    10% {
+                        transform: scale(0.91);
+                        animation-timing-function: ease-in;
+                        // box-shadow: inset 9px 9px 14px -2px rgba(0, 0, 0, 0.48), inset -9px -9px 14px -2px rgba(113, 113, 113, 0.48);
+                    }
+
+                    17% {
+                        transform: scale(0.98);
+                        animation-timing-function: ease-out;
+                    }
+
+                    33% {
+                        transform: scale(0.87);
+                        animation-timing-function: ease-in;
+                    }
+
+                    45% {
+                        transform: scale(1);
+                        animation-timing-function: ease-out;
+                    }
+                }
+
+
+                dir {
+                    width: 99%;
+                    height: 99%;
+                    background-color: #0BCBFF;
+                    border-radius: 5px;
+                    padding: 12px 5px;
+                    margin: 1px;
+
+                    .JoinQuiz-btn {
+                        margin: 0px !important;
+                    }
+                }
+
+                // &:active {
+                //     box-shadow: inset 9px 9px 14px -2px rgba(0, 0, 0, 0.48), inset -9px -9px 14px -2px rgba(113, 113, 113, 0.48);
+                // }
+            }
+        }
+
+        .PlayAsGuest-componet {
+            width: 99%;
+            max-width: 99%;
+            display: flex;
+            align-self: center;
+            justify-content: center;
+            margin-top: 30px;
+            margin-bottom: 20px;
+
+            button {
+                background: #0BCBFF;
+                border: none;
+                outline: none;
+                width: 100%;
+                color: #fff;
+                border-radius: 5px;
+                padding: 12px 5px;
+                color: #000;
+                font-size: 18px;
+            }
+        }
+    }
+
+    .ViewPrizes {
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        width: 90%;
+
+        .JoinQuiz-componet {
+            background: transparent;
+            border: none;
+            outline: none;
+            margin: 5px;
+            width: 100%;
+            align-content: center;
+            min-height: 40px;
+            color: #fff;
+            border-radius: 5px;
+            padding: 7px;
+            border: 1px solid #0BCBFF;
+            color: #0BCBFF;
+            font-size: 14px;
+        }
+    }
+
+    .PrizesRank-main {
+        position: fixed;
+        bottom: 0%;
+        width: 100%;
+        max-width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: #1A202C;
+        border-radius: 20px 20px 0px 0px;
+        box-shadow: 0px -105px 14px 1401px rgba(0, 0, 0, 0.48);
+        animation: slide-out 0.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+
+        @keyframes slide-out {
+            0% {
+                transform: translateY(1000px);
+                opacity: 1
+            }
+
+            100% {
+                transform: translateY(0);
+                opacity: 1
+            }
+        }
+
+        .PrizesRank-close {
+            display: flex;
+            justify-content: flex-end;
+            width: 100%;
+            max-width: 90%;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+
+        .PrizesRank-title {
+            margin-bottom: 10px;
+            width: 100%;
+            justify-content: center;
+            text-align: center;
+            font-size: 16px !important;
+        }
+
+        hr {
+            border-color: #2B3447;
+            display: none;
+        }
+
+        dir {
+            width: 90%;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+
+            .PrizesRank {
+                width: 100%;
+                justify-content: space-between;
+                display: flex;
+                margin: 10px 0px;
+                font-size: 15px;
+                align-items: center;
+
+                .PrizesRank-coin {
+                    display: flex;
+                    align-items: center;
+                    font-weight: 900;
+                }
+            }
+        }
+    }
+}

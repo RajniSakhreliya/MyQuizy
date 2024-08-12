@@ -1,0 +1,113 @@
+.navbar {
+    background-color: #10141C;
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    padding: 10px;
+    align-items: center;
+    z-index: 3;
+
+    .menu-logo {
+        display: flex;
+        flex-direction: row;
+
+        .menu {
+            width: 100%;
+            align-content: center;
+            max-width: 100%;
+        }
+
+        .logo {
+            margin-left: 20px;
+            
+            img{
+                width: 110px;
+            }
+        }
+    }
+
+    .coins {
+        display: flex;
+        flex-direction: row;
+        // background-color: rgb(6, 6, 85);
+        padding: 1.5% 3%;
+        border-radius: 50px;
+        word-wrap: none;
+
+        .coin {
+            display: flex;
+            align-items: center;
+        }
+    }
+
+    .notifications {
+        display: flex;
+        flex-direction: row;
+        // padding: 1.5% 3%;
+        // border-radius: 50px;
+        width: 100%;
+        padding: 4% 0%;
+        max-width: 12%;
+        overflow: visible;
+
+        .notifications-garden {
+            padding: 0.6px;
+            border-radius: 7px;
+            width: 32px;
+            height: 30px;
+            background: linear-gradient(to top, #1A202C 40%, #fff);
+            padding: 0.8px;
+        }
+
+        .notifications-background {
+            background-color: #1A202C;
+            border-radius: 7px;
+            // padding: 2px;
+            width: 99%;
+            height: 99%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .notifications-animista {
+            position: relative;
+            left: -10px;
+            background-color: #1A202C;
+            // animation: wobble-hor-bottom 0.8s infinite;
+
+            @keyframes wobble-hor-bottom {
+
+                0%,
+                100% {
+                    transform: rotate(0deg);
+                }
+
+                15% {
+                    transform: rotate(0deg);
+                }
+
+                30% {
+                    transform: rotate(0deg);
+                }
+
+                45% {
+                    transform: rotate(-9.6deg);
+                }
+
+                60% {
+                    transform: rotate(9.4deg);
+                }
+
+                75% {
+                    transform: rotate(-1.2deg);
+                }
+            }
+        }
+    }
+}

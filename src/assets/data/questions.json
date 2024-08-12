@@ -1,0 +1,5611 @@
+[
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the primary colors?",
+        "correct_answer": "Red, yellow, and blue",
+        "answer": "C",
+        "options": {
+            "a": "Purple, orange, and green",
+            "b": "Black, white, and gray",
+            "c": "Red, yellow, and blue",
+            "d": "Pink, teal, and brown"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a famous painting by Leonardo da Vinci?",
+        "correct_answer": "Mona Lisa",
+        "answer": "B",
+        "options": {
+            "a": "The Starry Night",
+            "b": "Mona Lisa",
+            "c": "Las Meninas",
+            "d": "The Scream"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a sculptor someone who creates?",
+        "correct_answer": "Sculptures",
+        "answer": "A",
+        "options": {
+            "a": "Sculptures",
+            "b": "Paintings",
+            "c": "Drawings",
+            "d": "Photographs"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a museum?",
+        "correct_answer": "A place that exhibits art and other objects of cultural or historical importance",
+        "answer": "C",
+        "options": {
+            "a": "A workshop where artists create their work",
+            "b": "A competition for artists",
+            "c": "A place that exhibits art and other objects of cultural or historical importance",
+            "d": "An online platform for selling art"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a sketch?",
+        "correct_answer": "A rough or unfinished drawing",
+        "answer": "B",
+        "options": {
+            "a": "A painting made with oil paints",
+            "b": "A rough or unfinished drawing",
+            "c": "A three-dimensional sculpture",
+            "d": "A photograph"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a famous painting by Vincent van Gogh?",
+        "correct_answer": "The Starry Night",
+        "answer": "A",
+        "options": {
+            "a": "The Starry Night",
+            "b": "Guernica",
+            "c": "Water Lilies",
+            "d": "The Birth of Venus"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are complementary colors?",
+        "correct_answer": "Colors that are opposite each other on the color wheel and create a high contrast when placed next to each other",
+        "answer": "D",
+        "options": {
+            "a": "Colors that are next to each other on the color wheel",
+            "b": "Colors that are shades of the same color",
+            "c": "Colors that are light and bright",
+            "d": "Colors that are opposite each other on the color wheel and create a high contrast when placed next to each other"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of art that features realistic portrayals of everyday life?",
+        "correct_answer": "Realism",
+        "answer": "C",
+        "options": {
+            "a": "Impressionism",
+            "b": "Abstract Expressionism",
+            "c": "Realism",
+            "d": "Surrealism"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a term used to describe a piece of art that uses a limited number of colors?",
+        "correct_answer": "Monochromatic",
+        "answer": "B",
+        "options": {
+            "a": "Landscape",
+            "b": "Monochromatic",
+            "c": "Portrait",
+            "d": "Still life"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a performance that combines music, dance, and drama?",
+        "correct_answer": "Opera",
+        "answer": "D",
+        "options": {
+            "a": "Ballet",
+            "b": "Play",
+            "c": "Symphony",
+            "d": "Opera"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the black and white key arrangement on a piano?",
+        "correct_answer": "Keyboard",
+        "answer": "A",
+        "options": {
+            "a": "Keyboard",
+            "b": "Stave",
+            "c": "Strings",
+            "d": "Notes"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a building designed to house and display works of art called?",
+        "correct_answer": "Gallery",
+        "answer": "C",
+        "options": {
+            "a": "Studio",
+            "b": "Theater",
+            "c": "Gallery",
+            "d": "Museum"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a traditional Japanese art form that involves arranging flowers in a container?",
+        "correct_answer": "Ikebana",
+        "answer": "D",
+        "options": {
+            "a": "Origami",
+            "b": "Kabuki",
+            "c": "Haiku",
+            "d": "Ikebana"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the tool used to draw thin lines or create details in a painting?",
+        "correct_answer": "Brush",
+        "answer": "A",
+        "options": {
+            "a": "Brush",
+            "b": "Palette",
+            "c": "Easel",
+            "d": "Canvas"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large artwork painted directly on a wall or ceiling?",
+        "correct_answer": "Mural",
+        "answer": "B",
+        "options": {
+            "a": "Sculpture",
+            "b": "Mural",
+            "c": "Sketch",
+            "d": "Print"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the term for a piece of art that depicts a fictional scene or story?",
+        "correct_answer": "Narrative",
+        "answer": "B",
+        "options": {
+            "a": "Abstract",
+            "b": "Narrative",
+            "c": "Landscape",
+            "d": "Portrait"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a famous Renaissance sculptor known for works like David and Pieta?",
+        "correct_answer": "Michelangelo",
+        "answer": "C",
+        "options": {
+            "a": "Leonardo da Vinci",
+            "b": "Vincent van Gogh",
+            "c": "Michelangelo",
+            "d": "Claude Monet"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a branch of theatre that uses puppets to perform a story?",
+        "correct_answer": "Puppetry",
+        "answer": "D",
+        "options": {
+            "a": "Opera",
+            "b": "Ballet",
+            "c": "Musical",
+            "d": "Puppetry"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a soft material like charcoal or conte crayon used for drawing?",
+        "correct_answer": "Drawing stick",
+        "answer": "B",
+        "options": {
+            "a": "Paintbrush",
+            "b": "Drawing stick",
+            "c": "Palette knife",
+            "d": "Eraser"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a period of artistic style that emerged in the early 20th century and emphasized the subconscious mind?",
+        "correct_answer": "Surrealism",
+        "answer": "D",
+        "options": {
+            "a": "Renaissance",
+            "b": "Baroque",
+            "c": "Impressionism",
+            "d": "Surrealism"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the technique of creating a print by carving a design into a wood block and then pressing it onto paper?",
+        "correct_answer": "Woodcut",
+        "answer": "A",
+        "options": {
+            "a": "Woodcut",
+            "b": "Watercolor",
+            "c": "Sculpture",
+            "d": "Photography"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a performance that combines music, dance, and acrobatics?",
+        "correct_answer": "Circus",
+        "answer": "C",
+        "options": {
+            "a": "Ballet",
+            "b": "Play",
+            "c": "Circus",
+            "d": "Opera"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a traditional art form from West Africa that involves creating masks and sculptures?",
+        "correct_answer": "African mask",
+        "answer": "A",
+        "options": {
+            "a": "African mask",
+            "b": "Origami",
+            "c": "Kabuki",
+            "d": "Haiku"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Art",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a mixture of pigments used for painting?",
+        "correct_answer": "Paint",
+        "answer": "B",
+        "options": {
+            "a": "Clay",
+            "b": "Paint",
+            "c": "Ink",
+            "d": "Charcoal"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the study of how people allocate scarce resources?",
+        "correct_answer": "Economics",
+        "answer": "B",
+        "options": {
+            "a": "History",
+            "b": "Economics",
+            "c": "Psychology",
+            "d": "Sociology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are things that people need or want, but there is not enough of them for everyone?",
+        "correct_answer": "Scarce resources",
+        "answer": "C",
+        "options": {
+            "a": "Common items",
+            "b": "Unlimited goods",
+            "c": "Scarce resources",
+            "d": "Free products"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the basic economic problem?",
+        "correct_answer": "Unlimited wants and scarce resources",
+        "answer": "D",
+        "options": {
+            "a": "Low supply and high demand",
+            "b": "High cost of living",
+            "c": "Unequal distribution of wealth",
+            "d": "Unlimited wants and scarce resources"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the four factors of production?",
+        "correct_answer": "Land, labor, capital, and entrepreneurship",
+        "answer": "B",
+        "options": {
+            "a": "Money, goods, services, jobs",
+            "b": "Land, labor, capital, and entrepreneurship",
+            "c": "Factories, stores, offices, transportation",
+            "d": "Supply, demand, price, value"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a need and a want?",
+        "correct_answer": "Needs are basic for survival, wants are not.",
+        "answer": "B",
+        "options": {
+            "a": "Needs are expensive, wants are cheap.",
+            "b": "Needs are basic for survival, wants are not.",
+            "c": "Needs are produced by factories, wants are natural.",
+            "d": "Needs are sold in stores, wants are found in nature."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a fixed cost and a variable cost?",
+        "correct_answer": "Fixed costs don't change, variable costs do change with production.",
+        "answer": "C",
+        "options": {
+            "a": "Fixed costs are high, variable costs are low.",
+            "b": "Fixed costs are for goods, variable costs are for services.",
+            "c": "Fixed costs don't change, variable costs do change with production.",
+            "d": "Fixed costs are paid to workers, variable costs are for rent."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is money used for?",
+        "correct_answer": "To buy goods and services",
+        "answer": "A",
+        "options": {
+            "a": "To buy goods and services",
+            "b": "To barter for goods",
+            "c": "To store value",
+            "d": "All of the above"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a debit card and a credit card?",
+        "correct_answer": "A debit card uses your own money, a credit card lets you borrow money.",
+        "answer": "C",
+        "options": {
+            "a": "Debit cards have chips, credit cards have magnetic strips.",
+            "b": "Debit cards are for online purchases, credit cards are for stores.",
+            "c": "A debit card uses your own money, a credit card lets you borrow money.",
+            "d": "Debit cards have higher fees, credit cards have lower fees."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a stock market?",
+        "correct_answer": "A place to buy and sell shares of ownership in companies",
+        "answer": "B",
+        "options": {
+            "a": "A place to get loans from banks",
+            "b": "A place to buy and sell shares of ownership in companies",
+            "c": "A government program that helps people in need",
+            "d": "An international organization that regulates trade"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a tax and a fee?",
+        "correct_answer": "Taxes are used for public services, fees are paid for a specific service.",
+        "answer": "D",
+        "options": {
+            "a": "Taxes are always higher than fees",
+            "b": "Taxes are paid to the government, fees are paid to businesses",
+            "c": "Fees are for rich people, taxes are for poor people",
+            "d": "Taxes are used for public services, fees are paid for a specific service."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is inflation?",
+        "correct_answer": "A rise in the general price level of goods and services",
+        "answer": "B",
+        "options": {
+            "a": "A decrease in unemployment",
+            "b": "A rise in the general price level of goods and services",
+            "c": "The amount of money in circulation",
+            "d": "The value of a currency compared to another currency"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a bull market and a bear market?",
+        "correct_answer": "A bull market is when stock prices are rising, a bear market is when they are falling.",
+        "answer": "C",
+        "options": {
+            "a": "A bull market is for young investors, a bear market is for experienced investors.",
+            "b": "A bull market is for buying stocks, a bear market is for selling stocks.",
+            "c": "A bull market is when stock prices are rising, a bear market is when they are falling.",
+            "d": "A bull market is safe, a bear market is risky."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a budget?",
+        "correct_answer": "A plan for how you will spend your money",
+        "answer": "A",
+        "options": {
+            "a": "A plan for how you will spend your money",
+            "b": "The total amount of money you owe",
+            "c": "Money that is saved in a bank",
+            "d": "The cost of producing a good or service"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is international trade?",
+        "correct_answer": "The exchange of goods and services between countries",
+        "answer": "C",
+        "options": {
+            "a": "The study of how people make decisions",
+            "b": "The production of goods and services in a country",
+            "c": "The exchange of goods and services between countries",
+            "d": "The system a country uses to tax its citizens"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a dividend?",
+        "correct_answer": "A share of a company's profits paid to shareholders",
+        "answer": "D",
+        "options": {
+            "a": "The cost of borrowing money",
+            "b": "Money saved for retirement",
+            "c": "A government program that helps people find jobs",
+            "d": "A share of a company's profits paid to shareholders"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between gross income and net income?",
+        "correct_answer": "Gross income is all your earnings before taxes, net income is what you have left after taxes and other deductions",
+        "answer": "B",
+        "options": {
+            "a": "Gross income is for businesses, net income is for individuals",
+            "b": "Gross income is all your earnings before taxes, net income is what you have left after taxes and other deductions",
+            "c": "Gross income is money you spend, net income is money you save",
+            "d": "Gross income is a monthly amount, net income is a yearly amount"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a recession?",
+        "correct_answer": "A period of decline in economic activity",
+        "answer": "A",
+        "options": {
+            "a": "A period of decline in economic activity",
+            "b": "A period of rapid economic growth",
+            "c": "A low unemployment rate",
+            "d": "A high inflation rate"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the role of a central bank?",
+        "correct_answer": "To control interest rates and inflation",
+        "answer": "C",
+        "options": {
+            "a": "To provide loans to businesses",
+            "b": "To collect taxes",
+            "c": "To control interest rates and inflation",
+            "d": "To print money"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a tariff?",
+        "correct_answer": "A tax on imported goods",
+        "answer": "B",
+        "options": {
+            "a": "A government subsidy for businesses",
+            "b": "A tax on imported goods",
+            "c": "A type of international trade agreement",
+            "d": "Money paid to workers for their labor"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a fixed exchange rate and a floating exchange rate?",
+        "correct_answer": "A fixed exchange rate is set by the government, a floating exchange rate is determined by supply and demand.",
+        "answer": "D",
+        "options": {
+            "a": "A fixed exchange rate is used more in developed countries, a floating exchange rate is used in developing countries.",
+            "b": "A fixed exchange rate benefits exporters, a floating exchange rate benefits importers.",
+            "c": "A fixed exchange rate is more stable, a floating exchange rate can fluctuate more.",
+            "d": "A fixed exchange rate is set by the government, a floating exchange rate is determined by supply and demand."
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a corporation?",
+        "correct_answer": "A legal business entity separate from its owners",
+        "answer": "B",
+        "options": {
+            "a": "A small business owned by one person",
+            "b": "A legal business entity separate from its owners",
+            "c": "A non-profit organization",
+            "d": "A government agency"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the role of a labor union?",
+        "correct_answer": "To represent workers in collective bargaining with employers",
+        "answer": "C",
+        "options": {
+            "a": "To provide unemployment benefits to workers",
+            "b": "To set safety standards in workplaces",
+            "c": "To represent workers in collective bargaining with employers",
+            "d": "To offer health insurance to workers"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is scarcity?",
+        "correct_answer": "The situation where there are not enough resources to satisfy all wants and needs",
+        "answer": "A",
+        "options": {
+            "a": "The situation where there are not enough resources to satisfy all wants and needs",
+            "b": "The desire to buy something",
+            "c": "The money used to buy goods and services",
+            "d": "The cost of producing a good or service"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the difference between a monopoly and a competitive market?",
+        "correct_answer": "A monopoly has one seller, a competitive market has many sellers",
+        "answer": "D",
+        "options": {
+            "a": "A monopoly sells luxury goods, a competitive market sells everyday goods.",
+            "b": "A monopoly has high prices, a competitive market has low prices.",
+            "c": "A monopoly offers high quality products, a competitive market offers low quality products.",
+            "d": "A monopoly has one seller, a competitive market has many sellers"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Economics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a public good?",
+        "correct_answer": "A good or service that is non-excludable and non-rivalrous",
+        "answer": "C",
+        "options": {
+            "a": "A good that is produced by the government",
+            "b": "A good that is expensive and exclusive",
+            "c": "A good or service that is non-excludable and non-rivalrous",
+            "d": "A good that can be easily stored"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the capital of fashion?",
+        "correct_answer": "Paris",
+        "answer": "C",
+        "options": {
+            "a": "London",
+            "b": "New York City",
+            "c": "Paris",
+            "d": "Milan"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the biggest award in music?",
+        "correct_answer": "Grammy Award",
+        "answer": "B",
+        "options": {
+            "a": "Oscar",
+            "b": "Grammy Award",
+            "c": "Emmy Award",
+            "d": "Tony Award"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a popular card game where players try to get rid of all their cards?",
+        "correct_answer": "Uno",
+        "answer": "B",
+        "options": {
+            "a": "Go Fish",
+            "b": "Uno",
+            "c": "Poker",
+            "d": "Old Maid"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a branch of theatre featuring singing and dancing?",
+        "correct_answer": "Musical",
+        "answer": "C",
+        "options": {
+            "a": "Drama",
+            "b": "Comedy",
+            "c": "Musical",
+            "d": "Play"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+        "correct_answer": "Sherlock Holmes",
+        "answer": "A",
+        "options": {
+            "a": "Sherlock Holmes",
+            "b": "Hercule Poirot",
+            "c": "Miss Marple",
+            "d": "Nancy Drew"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the annual sporting event featuring the best athletes in the summer?",
+        "correct_answer": "Olympics",
+        "answer": "D",
+        "options": {
+            "a": "Super Bowl",
+            "b": "World Series",
+            "c": "Wimbledon",
+            "d": "Olympics"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device with a screen for watching movies and TV shows?",
+        "correct_answer": "Television",
+        "answer": "B",
+        "options": {
+            "a": "Projector",
+            "b": "Television",
+            "c": "Radio",
+            "d": "Speaker"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the yellow cartoon family that lives in Springfield?",
+        "correct_answer": "The Simpsons",
+        "answer": "A",
+        "options": {
+            "a": "The Simpsons",
+            "b": "Family Guy",
+            "c": "South Park",
+            "d": "Rick and Morty"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a hand-held device with a touchscreen used for playing games?",
+        "correct_answer": "Video game console",
+        "answer": "C",
+        "options": {
+            "a": "Board game",
+            "b": "Playing cards",
+            "c": "Video game console",
+            "d": "Puzzle"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the competition where singers try to outsing each other?",
+        "correct_answer": "Singing competition",
+        "answer": "B",
+        "options": {
+            "a": "Talent show",
+            "b": "Singing competition",
+            "c": "Dance battle",
+            "d": "Idol group"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of magic trick that involves making objects appear or disappear?",
+        "correct_answer": "Illusion",
+        "answer": "C",
+        "options": {
+            "a": "Juggling",
+            "b": "Mime",
+            "c": "Illusion",
+            "d": "Puppetry"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large building where people gather to watch sporting events or concerts?",
+        "correct_answer": "Stadium",
+        "answer": "A",
+        "options": {
+            "a": "Stadium",
+            "b": "Arena",
+            "c": "Theater",
+            "d": "Auditorium"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the game played on a checkered board with black and white squares?",
+        "correct_answer": "Chess",
+        "answer": "D",
+        "options": {
+            "a": "Checkers",
+            "b": "Backgammon",
+            "c": "Go",
+            "d": "Chess"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a popular genre of music with a strong rhythm and lyrics about love and heartbreak?",
+        "correct_answer": "Pop",
+        "answer": "B",
+        "options": {
+            "a": "Rock",
+            "b": "Pop",
+            "c": "Country",
+            "d": "Hip hop"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a short funny performance that is part of a larger variety show?",
+        "correct_answer": "Skit",
+        "answer": "C",
+        "options": {
+            "a": "Monotone",
+            "b": "Parody",
+            "c": "Skit",
+            "d": "Impression"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a famous magic trick where a rabbit appears from a hat?",
+        "correct_answer": "Pulling a rabbit out of a hat",
+        "answer": "A",
+        "options": {
+            "a": "Pulling a rabbit out of a hat",
+            "b": "Escaping a straightjacket",
+            "c": "Sawing a person in half",
+            "d": "Mind reading"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the annual event where people dress up in costumes and celebrate?",
+        "correct_answer": "Halloween",
+        "answer": "D",
+        "options": {
+            "a": "Christmas",
+            "b": "New Year's Day",
+            "c": "Thanksgiving",
+            "d": "Halloween"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of movie that features space travel and aliens?",
+        "correct_answer": "Science fiction",
+        "answer": "C",
+        "options": {
+            "a": "Comedy",
+            "b": "Animation",
+            "c": "Science fiction",
+            "d": "Fantasy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a popular toy that can be built into many different shapes?",
+        "correct_answer": "Building block",
+        "answer": "B",
+        "options": {
+            "a": "Action figure",
+            "b": "Building block",
+            "c": "Doll",
+            "d": "Stuffed animal"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a competition where people perform dances for judges?",
+        "correct_answer": "Dance competition",
+        "answer": "A",
+        "options": {
+            "a": "Dance competition",
+            "b": "Talent show",
+            "c": "Beauty pageant",
+            "d": "Gymnastics competition"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the board game where players try to guess a hidden word?",
+        "correct_answer": "Charades",
+        "answer": "C",
+        "options": {
+            "a": "Scrabble",
+            "b": "Pictionary",
+            "c": "Charades",
+            "d": "Monopoly"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of singing that uses strong emotions and facial expressions?",
+        "correct_answer": "Opera",
+        "answer": "D",
+        "options": {
+            "a": "Pop",
+            "b": "Rock",
+            "c": "Country",
+            "d": "Opera"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large group of people who sing together?",
+        "correct_answer": "Choir",
+        "answer": "A",
+        "options": {
+            "a": "Choir",
+            "b": "Band",
+            "c": "Orchestra",
+            "d": "Musical group"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the game where players try to knock down pins with a ball?",
+        "correct_answer": "Bowling",
+        "answer": "B",
+        "options": {
+            "a": "Mini golf",
+            "b": "Bowling",
+            "c": "Ping pong",
+            "d": "Billiards"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a popular social media platform for sharing short videos?",
+        "correct_answer": "TikTok",
+        "answer": "C",
+        "options": {
+            "a": "YouTube",
+            "b": "Instagram",
+            "c": "TikTok",
+            "d": "Twitter"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "answer": "B",
+        "options": {
+            "a": "Mars",
+            "b": "Jupiter",
+            "c": "Saturn",
+            "d": "Neptune"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who wrote the play 'Romeo and Juliet'?",
+        "correct_answer": "William Shakespeare",
+        "answer": "C",
+        "options": {
+            "a": "Christopher Marlowe",
+            "b": "Ben Jonson",
+            "c": "William Shakespeare",
+            "d": "John Webster"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the capital city of Australia?",
+        "correct_answer": "Canberra",
+        "answer": "D",
+        "options": {
+            "a": "Sydney",
+            "b": "Melbourne",
+            "c": "Brisbane",
+            "d": "Canberra"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest mammal in the world?",
+        "correct_answer": "Blue whale",
+        "answer": "C",
+        "options": {
+            "a": "African elephant",
+            "b": "Sperm whale",
+            "c": "Blue whale",
+            "d": "Polar bear"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which element is represented by the symbol 'O'",
+        "correct_answer": "Oxygen",
+        "answer": "A",
+        "options": {
+            "a": "Oxygen",
+            "b": "Osmium",
+            "c": "Oganesson",
+            "d": "None of the above"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": " Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "answer": "C",
+        "options": {
+            "a": "Vincent van Gogh",
+            "b": "Claude Monet",
+            "c": "Leonardo da Vinci",
+            "d": "Michelangelo"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the longest river in the world",
+        "correct_answer": "The Nile River",
+        "answer": "D",
+        "options": {
+            "a": "The Amazon River",
+            "b": "The Mississippi River",
+            "c": "The Yangtze River",
+            "d": "The Nile River"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the smallest country in the world by area?",
+        "correct_answer": "Vatican City",
+        "answer": "C",
+        "options": {
+            "a": "Monaco",
+            "b": "San Marino",
+            "c": "Vatican City",
+            "d": "Liechtenstein"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "In what year did the Titanic sink?",
+        "correct_answer": "1912",
+        "answer": "B",
+        "options": {
+            "a": "1900",
+            "b": "1912",
+            "c": "1920",
+            "d": "1935"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who was the first person to walk on the moon?",
+        "correct_answer": "Neil Armstrong",
+        "answer": "D",
+        "options": {
+            "a": "Buzz Aldrin",
+            "b": "Michael Collins",
+            "c": "Yuri Gagarin",
+            "d": "Neil Armstrong"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the currency of Japan?",
+        "correct_answer": "Yen",
+        "answer": "C",
+        "options": {
+            "a": "Yuan",
+            "b": "Won",
+            "c": "Yen",
+            "d": "Rupee"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous scientist developed the theory of relativity?",
+        "correct_answer": "Albert Einstein",
+        "answer": "B",
+        "options": {
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Stephen Hawking",
+            "d": "Galileo Galilei"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest ocean in the world?",
+        "correct_answer": "Pacific Ocean",
+        "answer": "D",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "ndian Ocean",
+            "c": "Arctic Ocean",
+            "d": "Pacific Ocean"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the main ingredient in guacamole?",
+        "correct_answer": "Avocado",
+        "answer": "A",
+        "options": {
+            "a": "Avocado",
+            "b": "Tomato",
+            "c": "Lime",
+            "d": "Onion"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the tallest mountain in the world?",
+        "correct_answer": "Mount Everest",
+        "answer": "C",
+        "options": {
+            "a": "Mount Kilimanjaro",
+            "b": "Mount Elbrus",
+            "c": "Mount Everest",
+            "d": "K2"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who was the first president of the United States?",
+        "correct_answer": "George Washington",
+        "answer": "D",
+        "options": {
+            "a": "Thomas Jefferson",
+            "b": "John Adams",
+            "c": "James Madison",
+            "d": "George Washington"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is known as the Land of the Rising Sun?",
+        "correct_answer": "Japan",
+        "answer": "B",
+        "options": {
+            "a": "China",
+            "b": "Japan",
+            "c": "South Korea",
+            "d": "Thailand"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the main language spoken in Brazil?",
+        "correct_answer": "Portuguese",
+        "answer": "B",
+        "options": {
+            "a": "Spanish",
+            "b": "Portuguese",
+            "c": "English",
+            "d": "French"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the boiling point of water in Celsius?",
+        "correct_answer": "100°C",
+        "answer": "C",
+        "options": {
+            "a": "50°C",
+            "b": "75°C",
+            "c": "100°C",
+            "d": "150°C"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which planet is known as the Red Planet?",
+        "correct_answer": "Mars",
+        "answer": "A",
+        "options": {
+            "a": "Mars",
+            "b": "Mercury",
+            "c": "Venus",
+            "d": "Jupiter"
+        }
+    },
+    {
+        "FlipQuestion": true,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "answer": "B",
+        "options": {
+            "a": "Thomas Jefferson",
+            "b": "George Washington",
+            "c": "Abraham Lincoln",
+            "d": "John Adams"
+        }
+    },
+    {
+        "FlipQuestion": true,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which is the largest country in the world by land area?",
+        "correct_answer": "Russia",
+        "answer": "C",
+        "options": {
+            "a": "Canada",
+            "b": "United States",
+            "c": " Russia",
+            "d": " China"
+        }
+    },
+    {
+        "FlipQuestion": true,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the atomic number of carbon?",
+        "correct_answer": "6",
+        "answer": "A",
+        "options": {
+            "a": "6",
+            "b": "12",
+            "c": "14",
+            "d": "16"
+        }
+    },
+    {
+        "FlipQuestion": true,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who wrote the novel 'To Kill a Mockingbird'?",
+        "correct_answer": " Harper Lee",
+        "answer": "A",
+        "options": {
+            "a": " Harper Lee",
+            "b": "J.K. Rowling",
+            "c": "Ernest Hemingway",
+            "d": " F. Scott Fitzgerald"
+        }
+    },
+    {
+        "FlipQuestion": true,
+        "category": "GENERAL KNOWLEDGE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "How many players are there on a soccer team?",
+        "correct_answer": "11",
+        "answer": "A",
+        "options": {
+            "a": "11",
+            "b": "7",
+            "c": "5",
+            "d": "9"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which continent is known as the 'Red Continent'?",
+        "correct_answer": "Australia",
+        "answer": "A",
+        "options": {
+            "a": "Australia",
+            "b": "Africa",
+            "c": "Asia",
+            "d": "South America"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which ocean borders the west coast of the United States?",
+        "correct_answer": "Pacific Ocean",
+        "answer": "B",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "Pacific Ocean",
+            "c": "Indian Ocean",
+            "d": "Arctic Ocean"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous desert is located in the Middle East?",
+        "correct_answer": "Sahara Desert",
+        "answer": "C",
+        "options": {
+            "a": "Gobi Desert",
+            "b": "Atacama Desert",
+            "c": "Sahara Desert",
+            "d": "Australian Outback"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is known as the 'Land of the Rising Sun'?",
+        "correct_answer": "Japan",
+        "answer": "A",
+        "options": {
+            "a": "Japan",
+            "b": "China",
+            "c": "South Korea",
+            "d": "India"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the highest mountain in Africa?",
+        "correct_answer": "Mount Kilimanjaro",
+        "answer": "B",
+        "options": {
+            "a": "Mount Everest",
+            "b": "Mount Kilimanjaro",
+            "c": "Atlas Mountains",
+            "d": "Drakensberg Mountains"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which large body of water separates Great Britain from mainland Europe?",
+        "correct_answer": "English Channel",
+        "answer": "A",
+        "options": {
+            "a": "English Channel",
+            "b": "North Sea",
+            "c": "Irish Sea",
+            "d": "Bay of Biscay"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which of the following is NOT a country?",
+        "correct_answer": "Hawaii",
+        "answer": "C",
+        "options": {
+            "a": "France",
+            "b": "Brazil",
+            "c": "Hawaii",
+            "d": "Canada"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the largest rainforest in the world?",
+        "correct_answer": "Amazon Rainforest",
+        "answer": "A",
+        "options": {
+            "a": "Amazon Rainforest",
+            "b": "Congo Rainforest",
+            "c": "Temperate Rainforest",
+            "d": "Boreal Forest"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is famous for its canals and windmills?",
+        "correct_answer": "Netherlands",
+        "answer": "B",
+        "options": {
+            "a": "Germany",
+            "b": "Netherlands",
+            "c": "Denmark",
+            "d": "Sweden"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous river that flows through London?",
+        "correct_answer": "River Thames",
+        "answer": "C",
+        "options": {
+            "a": "Seine",
+            "b": "Nile",
+            "c": "River Thames",
+            "d": "Danube"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is known as the 'Land of a Thousand Hills'?",
+        "correct_answer": "Rwanda",
+        "answer": "A",
+        "options": {
+            "a": "Rwanda",
+            "b": "Ethiopia",
+            "c": "Kenya",
+            "d": "Uganda"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest desert in the world?",
+        "correct_answer": "Sahara",
+        "answer": "C",
+        "options": {
+            "a": "Gobi",
+            "b": "Arabian",
+            "c": "Sahara",
+            "d": "Patagonia"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which sea separates Europe from Africa?",
+        "correct_answer": "Mediterranean Sea",
+        "answer": "A",
+        "options": {
+            "a": "Mediterranean Sea",
+            "b": "Red Sea",
+            "c": "Black Sea",
+            "d": "Atlantic Ocean"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which city is known as the 'City of Lights'?",
+        "correct_answer": "Paris",
+        "answer": "B",
+        "options": {
+            "a": "London",
+            "b": "Paris",
+            "c": "Rome",
+            "d": "Madrid"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What mountain range separates the Atlantic and Pacific Oceans in North America?",
+        "correct_answer": "Rocky Mountains",
+        "answer": "C",
+        "options": {
+            "a": "Appalachian Mountains",
+            "b": "Andes Mountains",
+            "c": "Rocky Mountains",
+            "d": "Sierra Nevada"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is home to the Great Barrier Reef?",
+        "correct_answer": "Australia",
+        "answer": "A",
+        "options": {
+            "a": "Australia",
+            "b": "New Zealand",
+            "c": "Indonesia",
+            "d": "Fiji"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which continent is entirely located in the Southern Hemisphere?",
+        "correct_answer": "Antarctica",
+        "answer": "C",
+        "options": {
+            "a": "South America",
+            "b": "Africa",
+            "c": "Antarctica",
+            "d": "Australia"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the world's largest ocean?",
+        "correct_answer": "Pacific Ocean",
+        "answer": "B",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "Pacific Ocean",
+            "c": "Indian Ocean",
+            "d": "Arctic Ocean"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country borders the United States to the north?",
+        "correct_answer": "Canada",
+        "answer": "A",
+        "options": {
+            "a": "Canada",
+            "b": "Mexico",
+            "c": "Russia",
+            "d": "Cuba"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous landmark that separates the eastern and western hemispheres?",
+        "correct_answer": "Prime Meridian",
+        "answer": "B",
+        "options": {
+            "a": "Equator",
+            "b": "Prime Meridian",
+            "c": "International Date Line",
+            "d": "Tropic of Cancer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which city is known as the 'Big Apple'?",
+        "correct_answer": "New York City",
+        "answer": "C",
+        "options": {
+            "a": "Los Angeles",
+            "b": "Chicago",
+            "c": "New York City",
+            "d": "Miami"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "On which continent is the Amazon Rainforest located?",
+        "correct_answer": "South America",
+        "answer": "A",
+        "options": {
+            "a": "South America",
+            "b": "Africa",
+            "c": "Asia",
+            "d": "Australia"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the tallest mountain in the world?",
+        "correct_answer": "Mount Everest",
+        "answer": "C",
+        "options": {
+            "a": "K2",
+            "b": "Mount Kilimanjaro",
+            "c": "Mount Everest",
+            "d": "Lhotse"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "GEOGRAPHY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which country is known for its flamenco dancing?",
+        "correct_answer": "Spain",
+        "answer": "D",
+        "options": {
+            "a": "Italy",
+            "b": "France",
+            "c": "Germany",
+            "d": "Spain"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the capital of ancient Rome?",
+        "correct_answer": "Rome",
+        "answer": "A",
+        "options": {
+            "a": "Rome",
+            "b": "Athens",
+            "c": "Alexandria",
+            "d": "Carthage"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "The Magna Carta was a document signed by King John of England limiting his power. In which year was it signed?",
+        "correct_answer": "1215",
+        "answer": "B",
+        "options": {
+            "a": "1066",
+            "b": "1215",
+            "c": "1453",
+            "d": "1776"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who was the first emperor of a unified China?",
+        "correct_answer": "Qin Shi Huang",
+        "answer": "C",
+        "options": {
+            "a": "Confucius",
+            "b": "Genghis Khan",
+            "c": "Qin Shi Huang",
+            "d": "Marco Polo"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which of the following is NOT a major world religion?",
+        "correct_answer": "Norse Mythology",
+        "answer": "D",
+        "options": {
+            "a": "Christianity",
+            "b": "Islam",
+            "c": "Hinduism",
+            "d": "Norse Mythology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "The Renaissance was a period of cultural and intellectual change in Europe. Roughly in which century did it occur?",
+        "correct_answer": "14th-16th",
+        "answer": "C",
+        "options": {
+            "a": "8th-10th",
+            "b": "11th-13th",
+            "c": "14th-16th",
+            "d": "17th-19th"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "The Berlin Wall divided Berlin from 1961 to what year?",
+        "correct_answer": "1989",
+        "answer": "C",
+        "options": {
+            "a": "1945",
+            "b": "1960",
+            "c": "1989",
+            "d": "2000"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "The American Civil War was fought between which two sides?",
+        "correct_answer": "Union and Confederacy",
+        "answer": "B",
+        "options": {
+            "a": "Britain and France",
+            "b": "Union and Confederacy",
+            "c": "North and South Korea",
+            "d": "Axis and Allied Powers"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which of these is NOT an ancient wonder of the world?",
+        "correct_answer": "The Eiffel Tower",
+        "answer": "D",
+        "options": {
+            "a": "The Great Wall of China",
+            "b": "The Colosseum",
+            "c": "The Hanging Gardens of Babylon",
+            "d": "The Eiffel Tower"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "World War II ended in what year?",
+        "correct_answer": "1945",
+        "answer": "C",
+        "options": {
+            "a": "1939",
+            "b": "1941",
+            "c": "1945",
+            "d": "1950"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who is known as the first president of the United States?",
+        "correct_answer": "George Washington",
+        "answer": "A",
+        "options": {
+            "a": "George Washington",
+            "b": "Abraham Lincoln",
+            "c": "Thomas Jefferson",
+            "d": "Theodore Roosevelt"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous explorer sailed for Spain in search of a westward route to India?",
+        "correct_answer": "Christopher Columbus",
+        "answer": "A",
+        "options": {
+            "a": "Christopher Columbus",
+            "b": "Marco Polo",
+            "c": "Vasco da Gama",
+            "d": "Ferdinand Magellan"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous wall that divided Berlin for nearly 30 years?",
+        "correct_answer": "Berlin Wall",
+        "answer": "A",
+        "options": {
+            "a": "Berlin Wall",
+            "b": "Great Wall of China",
+            "c": "Hadrian's Wall",
+            "d": "Great Wall of India"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which ancient civilization is known for building pyramids?",
+        "correct_answer": "Ancient Egypt",
+        "answer": "A",
+        "options": {
+            "a": "Ancient Egypt",
+            "b": "Ancient Greece",
+            "c": "Ancient Rome",
+            "d": "Aztec Empire"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the period marked by great cultural and scientific advancements in Europe?",
+        "correct_answer": "Renaissance",
+        "answer": "B",
+        "options": {
+            "a": "Middle Ages",
+            "b": "Renaissance",
+            "c": "Industrial Revolution",
+            "d": "Enlightenment"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the nickname for Britain during World War II?",
+        "correct_answer": "The Blitz",
+        "answer": "B",
+        "options": {
+            "a": "The Allies",
+            "b": "The Blitz",
+            "c": "The Axis",
+            "d": "D-Day"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous archaeologist discovered the city of Troy?",
+        "correct_answer": "Heinrich Schliemann",
+        "answer": "C",
+        "options": {
+            "a": "Howard Carter",
+            "b": "Mary Leakey",
+            "c": "Heinrich Schliemann",
+            "d": "Indiana Jones"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous palace in London that is the official residence of the British monarch?",
+        "correct_answer": "Buckingham Palace",
+        "answer": "A",
+        "options": {
+            "a": "Buckingham Palace",
+            "b": "Windsor Castle",
+            "c": "Tower of London",
+            "d": "Westminster Abbey"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What major invention revolutionized transportation in the 19th century?",
+        "correct_answer": "Steam engine",
+        "answer": "A",
+        "options": {
+            "a": "Steam engine",
+            "b": "Airplane",
+            "c": "Automobile",
+            "d": "Telephone"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which historical figure is known for leading the Indian independence movement?",
+        "correct_answer": "Mahatma Gandhi",
+        "answer": "B",
+        "options": {
+            "a": "Jawaharlal Nehru",
+            "b": "Mahatma Gandhi",
+            "c": "Indira Gandhi",
+            "d": "Rabindranath Tagore"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous document outlawed slavery in the United States?",
+        "correct_answer": "Thirteenth Amendment",
+        "answer": "C",
+        "options": {
+            "a": "Declaration of Independence",
+            "b": "U.S. Constitution",
+            "c": "Thirteenth Amendment",
+            "d": "Emancipation Proclamation"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the global conflict that lasted from 1914 to 1918?",
+        "correct_answer": "World War I",
+        "answer": "A",
+        "options": {
+            "a": "World War I",
+            "b": "World War II",
+            "c": "Korean War",
+            "d": "Vietnam War"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which famous explorer is credited with circumnavigating the globe?",
+        "correct_answer": "Ferdinand Magellan",
+        "answer": "C",
+        "options": {
+            "a": "Christopher Columbus",
+            "b": "Marco Polo",
+            "c": "Ferdinand Magellan",
+            "d": "Vasco da Gama"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the period in European history marked by the dominance of the Catholic Church?",
+        "correct_answer": "Middle Ages",
+        "answer": "A",
+        "options": {
+            "a": "Middle Ages",
+            "b": "Renaissance",
+            "c": "Enlightenment",
+            "d": "Industrial Revolution"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous mountain range that separates Europe and Asia?",
+        "correct_answer": "Ural Mountains",
+        "answer": "B",
+        "options": {
+            "a": "Himalayas",
+            "b": "Ural Mountains",
+            "c": "Andes",
+            "d": "Alps"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Which city was the capital of the ancient Roman Empire?",
+        "correct_answer": "Rome",
+        "answer": "A",
+        "options": {
+            "a": "Rome",
+            "b": "Athens",
+            "c": "Alexandria",
+            "d": "Constantinople"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "HISTORY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the global organization formed after World War II to promote international cooperation and peace?",
+        "correct_answer": "United Nations",
+        "answer": "D",
+        "options": {
+            "a": "League of Nations",
+            "b": "NATO",
+            "c": "World Trade Organization",
+            "d": "United Nations"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous wizarding school in the Harry Potter series?",
+        "correct_answer": "Hogwarts",
+        "answer": "B",
+        "options": {
+            "a": "Durmstrang",
+            "b": "Hogwarts",
+            "c": "Beauxbatons",
+            "d": "Gringotts"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who wrote the classic children's story 'Alice's Adventures in Wonderland'?",
+        "correct_answer": "Lewis Carroll",
+        "answer": "C",
+        "options": {
+            "a": "J.K. Rowling",
+            "b": "Roald Dahl",
+            "c": "Lewis Carroll",
+            "d": "C.S. Lewis"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the giant peach in Roald Dahl's book 'James and the Giant Peach'?",
+        "correct_answer": "James",
+        "answer": "A",
+        "options": {
+            "a": "James",
+            "b": "George",
+            "c": "Aunt Sponge",
+            "d": "The Centipede"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "Who wrote the famous children's book series 'The Very Hungry Caterpillar'?",
+        "correct_answer": "Eric Carle",
+        "answer": "B",
+        "options": {
+            "a": "Dr. Seuss",
+            "b": "Eric Carle",
+            "c": "Maurice Sendak",
+            "d": "Julia Donaldson"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the hobbit who embarks on a journey in J.R.R. Tolkien's 'The Hobbit'?",
+        "correct_answer": "Bilbo Baggins",
+        "answer": "C",
+        "options": {
+            "a": "Gandalf",
+            "b": "Frodo Baggins",
+            "c": "Bilbo Baggins",
+            "d": "Gollum"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the house where the four Pevensie siblings find a magical wardrobe in C.S. Lewis' 'The Lion, the Witch, and the Wardrobe'?",
+        "correct_answer": "Narnia",
+        "answer": "D",
+        "options": {
+            "a": "Neverland",
+            "b": "Hogwarts",
+            "c": "Oz",
+            "d": "Narnia"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the loyal dog who accompanies Sherlock Holmes in Sir Arthur Conan Doyle's detective stories?",
+        "correct_answer": "Sherlock Holmes",
+        "answer": "B",
+        "options": {
+            "a": "Mycroft Holmes",
+            "b": "Sherlock Holmes",
+            "c": "Inspector Lestrade",
+            "d": "Moriarty"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous detective created by Agatha Christie?",
+        "correct_answer": "Hercule Poirot",
+        "answer": "A",
+        "options": {
+            "a": "Hercule Poirot",
+            "b": "Miss Marple",
+            "c": "Sherlock Holmes",
+            "d": "Tommy and Tuppence Beresford"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the spaceship that carries the Baudelaire orphans on their adventures in Lemony Snicket's 'A Series of Unfortunate Events'?",
+        "correct_answer": "There is no spaceship in A Series of Unfortunate Events",
+        "answer": "D",
+        "options": {
+            "a": "The Pequod",
+            "b": "The Millennium Falcon",
+            "c": "The Starship Enterprise",
+            "d": "There is no spaceship in A Series of Unfortunate Events"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the green ogre who falls in love with a princess in the fairy tale 'Shrek'?",
+        "correct_answer": "Shrek",
+        "answer": "A",
+        "options": {
+            "a": "Shrek",
+            "b": "Donkey",
+            "c": "Lord Farquaad",
+            "d": "Puss in Boots"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the magical school that Matilda attends in Roald Dahl's 'Matilda'?",
+        "correct_answer": "Crunchem Hall Elementary School",
+        "answer": "C",
+        "options": {
+            "a": "Hogwarts",
+            "b": "Beauxbatons",
+            "c": "Crunchem Hall Elementary School",
+            "d": "Durmstrang"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the wise and old Jedi master in the Star Wars series?",
+        "correct_answer": "Yoda",
+        "answer": "A",
+        "options": {
+            "a": "Yoda",
+            "b": "Luke Skywalker",
+            "c": "Darth Vader",
+            "d": "Han Solo"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the boy who can fly in J.M. Barrie's 'Peter Pan'?",
+        "correct_answer": "Peter Pan",
+        "answer": "A",
+        "options": {
+            "a": "Peter Pan",
+            "b": "Captain Hook",
+            "c": "Wendy Darling",
+            "d": "Tinker Bell"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous detective who lives at 221B Baker Street in London?",
+        "correct_answer": "Sherlock Holmes",
+        "answer": "B",
+        "options": {
+            "a": "Hercule Poirot",
+            "b": "Sherlock Holmes",
+            "c": "Miss Marple",
+            "d": "Nancy Drew"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the giant who lives in beanstalk in the fairy tale 'Jack and the Beanstalk'?",
+        "correct_answer": "Giant",
+        "answer": "C",
+        "options": {
+            "a": "Jack",
+            "b": "The Magic Beans",
+            "c": "Giant",
+            "d": "The Harp"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the mischievous cat who travels with Puss in Boots in fairytales?",
+        "correct_answer": "Tom",
+        "answer": "C",
+        "options": {
+            "a": "Garfield",
+            "b": "Felix",
+            "c": "Tom",
+            "d": "Sylvester"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the young wizard who attends Hogwarts School of Witchcraft and Wizardry in J.K. Rowling's Harry Potter series?",
+        "correct_answer": "Harry Potter",
+        "answer": "A",
+        "options": {
+            "a": "Harry Potter",
+            "b": "Hermione Granger",
+            "c": "Ron Weasley",
+            "d": "Draco Malfoy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the classic fairy tale about a girl who loses a glass slipper at a ball?",
+        "correct_answer": "Cinderella",
+        "answer": "A",
+        "options": {
+            "a": "Cinderella",
+            "b": "Sleeping Beauty",
+            "c": "Snow White",
+            "d": "Rapunzel"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the mythical creature with the head of a lion, the body of a goat, and the tail of a serpent?",
+        "correct_answer": "Chimera",
+        "answer": "A",
+        "options": {
+            "a": "Chimera",
+            "b": "Centaur",
+            "c": "Griffin",
+            "d": "Dragon"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous poem by Robert Frost that talks about two roads diverging in a yellow wood?",
+        "correct_answer": "The Road Not Taken",
+        "answer": "B",
+        "options": {
+            "a": "Stopping by Woods on a Snowy Evening",
+            "b": "The Road Not Taken",
+            "c": "Mending Wall",
+            "d": "Fire and Ice"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the future dystopian city in Suzanne Collins' 'The Hunger Games' trilogy?",
+        "correct_answer": "Panem",
+        "answer": "D",
+        "options": {
+            "a": "Capitol",
+            "b": "District 12",
+            "c": "The Arena",
+            "d": "Panem"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the beloved children's book character created by A.A. Milne who lives in the Hundred Acre Wood?",
+        "correct_answer": "Winnie the Pooh",
+        "answer": "A",
+        "options": {
+            "a": "Winnie the Pooh",
+            "b": "Piglet",
+            "c": "Eeyore",
+            "d": "Tigger"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the playful dolphin in the classic children's novel 'Flipper' by Betty Cavanna?",
+        "correct_answer": "Flipper",
+        "answer": "A",
+        "options": {
+            "a": "Flipper",
+            "b": "Sandy",
+            "c": "Mr. Peterson",
+            "d": "Rick"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the giant who lives in a castle in the clouds in Roald Dahl's 'The BFG'?",
+        "correct_answer": "The Big Friendly Giant",
+        "answer": "B",
+        "options": {
+            "a": "Sophie",
+            "b": "The Big Friendly Giant",
+            "c": "Bloodbottler",
+            "d": "The Fleshlumpeater"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "LITERATURE",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the famous detective's sidekick in the Sherlock Holmes stories?",
+        "correct_answer": "Dr. John Watson",
+        "answer": "A",
+        "options": {
+            "a": "Dr. John Watson",
+            "b": "Mycroft Holmes",
+            "c": "Inspector Lestrade",
+            "d": "Professor Moriarty"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used for addition?",
+        "correct_answer": "+",
+        "answer": "A",
+        "options": {
+            "a": "+",
+            "b": "-",
+            "c": "*",
+            "d": "/"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used for subtraction?",
+        "correct_answer": "-",
+        "answer": "B",
+        "options": {
+            "a": "+",
+            "b": "-",
+            "c": "*",
+            "d": "/"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used for multiplication?",
+        "correct_answer": "*",
+        "answer": "C",
+        "options": {
+            "a": "+",
+            "b": "-",
+            "c": "*",
+            "d": "/"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used for division?",
+        "correct_answer": "/",
+        "answer": "D",
+        "options": {
+            "a": "+",
+            "b": "-",
+            "c": "*",
+            "d": "/"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If 5 + 3 equals 8, what is the result called?",
+        "correct_answer": "Sum",
+        "answer": "C",
+        "options": {
+            "a": "Difference",
+            "b": "Product",
+            "c": "Sum",
+            "d": "Quotient"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If 10 - 4 equals 6, what is the result called?",
+        "correct_answer": "Difference",
+        "answer": "A",
+        "options": {
+            "a": "Difference",
+            "b": "Product",
+            "c": "Sum",
+            "d": "Quotient"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If 2 x 3 equals 6, what is the result called?",
+        "correct_answer": "Product",
+        "answer": "B",
+        "options": {
+            "a": "Difference",
+            "b": "Product",
+            "c": "Sum",
+            "d": "Quotient"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If 12 / 3 equals 4, what is the result called?",
+        "correct_answer": "Quotient",
+        "answer": "D",
+        "options": {
+            "a": "Difference",
+            "b": "Product",
+            "c": "Sum",
+            "d": "Quotient"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a number that can be divided evenly by 1 and itself?",
+        "correct_answer": "Prime number",
+        "answer": "B",
+        "options": {
+            "a": "Even number",
+            "b": "Prime number",
+            "c": "Integer",
+            "d": "Fraction"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a number that has two decimal places?",
+        "correct_answer": "Hundredth",
+        "answer": "C",
+        "options": {
+            "a": "Whole number",
+            "b": "Tenth",
+            "c": "Hundredth",
+            "d": "Thousandth"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If a shape has four equal sides, what shape is it?",
+        "correct_answer": "Square",
+        "answer": "A",
+        "options": {
+            "a": "Square",
+            "b": "Rectangle",
+            "c": "Triangle",
+            "d": "Circle"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "How many sides does a hexagon have?",
+        "correct_answer": "6",
+        "answer": "C",
+        "options": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "8"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process of calculating the area of a shape?",
+        "correct_answer": "Area calculation",
+        "answer": "B",
+        "options": {
+            "a": "Measurement",
+            "b": "Area calculation",
+            "c": "Perimeter calculation",
+            "d": "Volume calculation"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used to represent degrees in temperature?",
+        "correct_answer": "°",
+        "answer": "A",
+        "options": {
+            "a": "°",
+            "b": "%",
+            "c": "+",
+            "d": "-"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "How many cents are in one dollar?",
+        "correct_answer": "100",
+        "answer": "C",
+        "options": {
+            "a": "10",
+            "b": "25",
+            "c": "100",
+            "d": "500"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a straight line that extends infinitely in two directions called?",
+        "correct_answer": "Ray",
+        "answer": "B",
+        "options": {
+            "a": "Line segment",
+            "b": "Ray",
+            "c": "Curve",
+            "d": "Polygon"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a number that is less than zero?",
+        "correct_answer": "Negative number",
+        "answer": "A",
+        "options": {
+            "a": "Negative number",
+            "b": "Positive number",
+            "c": "Natural number",
+            "d": "Whole number"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the answer to 9 x 0?",
+        "correct_answer": "0",
+        "answer": "D",
+        "options": {
+            "a": "1",
+            "b": "3",
+            "c": "9",
+            "d": "0"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "If a shape has three straight sides, what shape is it?",
+        "correct_answer": "Triangle",
+        "answer": "C",
+        "options": {
+            "a": "Square",
+            "b": "Rectangle",
+            "c": "Triangle",
+            "d": "Circle"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process of measuring the distance around a closed shape called?",
+        "correct_answer": "Perimeter calculation",
+        "answer": "C",
+        "options": {
+            "a": "Area calculation",
+            "b": "Volume calculation",
+            "c": "Perimeter calculation",
+            "d": "Length measurement"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is another word for remainder in division?",
+        "correct_answer": "Difference",
+        "answer": "B",
+        "options": {
+            "a": "Product",
+            "b": "Difference",
+            "c": "Quotient",
+            "d": "Multiple"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a mathematical sentence called?",
+        "correct_answer": "Equation",
+        "answer": "A",
+        "options": {
+            "a": "Equation",
+            "b": "Expression",
+            "c": "Calculation",
+            "d": "Measurement"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol used for pi (a mathematical constant)?",
+        "correct_answer": "π",
+        "answer": "B",
+        "options": {
+            "a": "%",
+            "b": "π",
+            "c": "$",
+            "d": "@"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MATHEMATICS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a flat surface with no edges called?",
+        "correct_answer": "Plane",
+        "answer": "C",
+        "options": {
+            "a": "Line",
+            "b": "Ray",
+            "c": "Plane",
+            "d": "Solid"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large screen format for movies that provides a wider field of view for the audience?",
+        "correct_answer": "IMAX",
+        "answer": "B",
+        "options": {
+            "a": "3D",
+            "b": "IMAX",
+            "c": "Animation",
+            "d": "Horror"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of movie that typically features elements of suspense, thriller, and mystery?",
+        "correct_answer": "Crime",
+        "answer": "C",
+        "options": {
+            "a": "Comedy",
+            "b": "Romance",
+            "c": "Crime",
+            "d": "Sci-fi"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a person who directs a movie called?",
+        "correct_answer": "Director",
+        "answer": "A",
+        "options": {
+            "a": "Director",
+            "b": "Producer",
+            "c": "Actor",
+            "d": "Writer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the award given for cinematic achievements in the United States?",
+        "correct_answer": "Academy Award",
+        "answer": "C",
+        "options": {
+            "a": "Emmy",
+            "b": "Grammy",
+            "c": "Academy Award",
+            "d": "Golden Globe"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie genre that typically features funny characters and situations?",
+        "correct_answer": "Comedy",
+        "answer": "A",
+        "options": {
+            "a": "Comedy",
+            "b": "Drama",
+            "c": "Action",
+            "d": "Animation"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a visual effect used in movies to create images that appear realistic but are not filmed in the real world?",
+        "correct_answer": "Special effects",
+        "answer": "B",
+        "options": {
+            "a": "Soundtrack",
+            "b": "Special effects",
+            "c": "Cinematography",
+            "d": "Editing"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie genre that typically features stories about love and relationships?",
+        "correct_answer": "Romance",
+        "answer": "B",
+        "options": {
+            "a": "Adventure",
+            "b": "Romance",
+            "c": "Thriller",
+            "d": "Fantasy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a person who writes the script for a movie called?",
+        "correct_answer": "Screenwriter",
+        "answer": "D",
+        "options": {
+            "a": "Director",
+            "b": "Producer",
+            "c": "Actor",
+            "d": "Screenwriter"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a series of movies with a connected storyline?",
+        "correct_answer": "Franchise",
+        "answer": "B",
+        "options": {
+            "a": "Trilogy",
+            "b": "Franchise",
+            "c": "Sequel",
+            "d": "Remake"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is based on a book?",
+        "correct_answer": "Adaptation",
+        "answer": "C",
+        "options": {
+            "a": "Documentary",
+            "b": "Biography",
+            "c": "Adaptation",
+            "d": "Independent film"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that tells a true story?",
+        "correct_answer": "Documentary",
+        "answer": "A",
+        "options": {
+            "a": "Documentary",
+            "b": "Animation",
+            "c": "Fantasy",
+            "d": "Sci-fi"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is created using animation techniques?",
+        "correct_answer": "Animated film",
+        "answer": "B",
+        "options": {
+            "a": "Comedy",
+            "b": "Animated film",
+            "c": "Action",
+            "d": "Thriller"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a short film that is typically shown before a feature film?",
+        "correct_answer": "Trailer",
+        "answer": "A",
+        "options": {
+            "a": "Trailer",
+            "b": "Commercial",
+            "c": "Preview",
+            "d": "Short film"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is set in a future time period?",
+        "correct_answer": "Sci-fi",
+        "answer": "D",
+        "options": {
+            "a": "Comedy",
+            "b": "Drama",
+            "c": "Adventure",
+            "d": "Sci-fi"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that features elements of magic and mythical creatures?",
+        "correct_answer": "Fantasy",
+        "answer": "C",
+        "options": {
+            "a": "Animation",
+            "b": "Comedy",
+            "c": "Fantasy",
+            "d": "Horror"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a sequel to a movie that continues the story?",
+        "correct_answer": "Sequel",
+        "answer": "C",
+        "options": {
+            "a": "Remake",
+            "b": "Prequel",
+            "c": "Sequel",
+            "d": "Trilogy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name for the credits that roll at the end of a movie, typically listing the cast and crew?",
+        "correct_answer": "Credits",
+        "answer": "C",
+        "options": {
+            "a": "Opening scene",
+            "b": "Soundtrack",
+            "c": "Credits",
+            "d": "Trailer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a group of actors who perform together in a scene called?",
+        "correct_answer": "Cast",
+        "answer": "A",
+        "options": {
+            "a": "Cast",
+            "b": "Crew",
+            "c": "Audience",
+            "d": "Extras"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the background music that plays throughout a movie called?",
+        "correct_answer": "Soundtrack",
+        "answer": "B",
+        "options": {
+            "a": "Dialogue",
+            "b": "Soundtrack",
+            "c": "Sound effects",
+            "d": "Score"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is filmed in a foreign language with subtitles?",
+        "correct_answer": "Foreign film",
+        "answer": "D",
+        "options": {
+            "a": "Documentary",
+            "b": "Independent film",
+            "c": "Animation",
+            "d": "Foreign film"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is made with a low budget and is typically distributed outside the traditional studio system?",
+        "correct_answer": "Independent film",
+        "answer": "B",
+        "options": {
+            "a": "Blockbuster",
+            "b": "Independent film",
+            "c": "Documentary",
+            "d": "Animation"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "difficulty": "easy",
+        "Question": "What is a movie that is a new version of an older film?",
+        "correct_answer": "Remake",
+        "answer": "A",
+        "options": {
+            "a": "Remake",
+            "b": "Sequel",
+            "c": "Prequel",
+            "d": "Adaptation"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that tells a story about the life of a real person?",
+        "correct_answer": "Biography",
+        "answer": "B",
+        "options": {
+            "a": "Documentary",
+            "b": "Biography",
+            "c": "Drama",
+            "d": "Historical fiction"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MOVIES",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a movie that is filmed on location rather than in a studio?",
+        "correct_answer": "On-location",
+        "answer": "D",
+        "options": {
+            "a": "Blockbuster",
+            "b": "Independent",
+            "c": "Theatrical",
+            "d": "On-location"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the instrument with a keyboard that you press down on to produce sound?",
+        "correct_answer": "Piano",
+        "answer": "A",
+        "options": {
+            "a": "Piano",
+            "b": "Guitar",
+            "c": "Violin",
+            "d": "Drum"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a group of singers called who sing together?",
+        "correct_answer": "Choir",
+        "answer": "B",
+        "options": {
+            "a": "Band",
+            "b": "Choir",
+            "c": "Orchestra",
+            "d": "Melody"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the person who conducts an orchestra called?",
+        "correct_answer": "Conductor",
+        "answer": "C",
+        "options": {
+            "a": "Musician",
+            "b": "Composer",
+            "c": "Conductor",
+            "d": "Singer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the lines or spaces on sheet music called that show the pitch of the sound?",
+        "correct_answer": "Staves",
+        "answer": "A",
+        "options": {
+            "a": "Staves",
+            "b": "Notes",
+            "c": "Clefs",
+            "d": "Chords"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of music with a strong rhythm and often features rapping or chanting?",
+        "correct_answer": "Hip Hop",
+        "answer": "B",
+        "options": {
+            "a": "Classical",
+            "b": "Hip Hop",
+            "c": "Rock",
+            "d": "Jazz"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a popular music genre that originated in Africa and is known for its complex rhythms and drumbeats?",
+        "correct_answer": "Afrobeat",
+        "answer": "C",
+        "options": {
+            "a": "Country",
+            "b": "Pop",
+            "c": "Afrobeat",
+            "d": "Electronic"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of music known for its soulful vocals and improvisation?",
+        "correct_answer": "Jazz",
+        "answer": "D",
+        "options": {
+            "a": "Folk",
+            "b": "Metal",
+            "c": "Blues",
+            "d": "Jazz"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a wind instrument made of metal that has valves to change pitch?",
+        "correct_answer": "Trumpet",
+        "answer": "A",
+        "options": {
+            "a": "Trumpet",
+            "b": "Saxophone",
+            "c": "Clarinet",
+            "d": "Flute"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of music with a lively tempo and often features instruments like the accordion and clarinet?",
+        "correct_answer": "Klezmer",
+        "answer": "C",
+        "options": {
+            "a": "Pop",
+            "b": "Rock",
+            "c": "Klezmer",
+            "d": "Country"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the symbol at the beginning of a staff in sheet music that indicates the pitch range for different instruments?",
+        "correct_answer": "Clef",
+        "answer": "B",
+        "options": {
+            "a": "Sharp",
+            "b": "Clef",
+            "c": "Bar",
+            "d": "Note"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a percussion instrument played by striking a drumhead with sticks or mallets?",
+        "correct_answer": "Drum",
+        "answer": "D",
+        "options": {
+            "a": "Piano",
+            "b": "Guitar",
+            "c": "Violin",
+            "d": "Drum"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a singer who performs solo, often with their own musical accompaniment, called?",
+        "correct_answer": "Singer-Songwriter",
+        "answer": "A",
+        "options": {
+            "a": "Singer-Songwriter",
+            "b": "Rapper",
+            "c": "Conductor",
+            "d": "Composer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of music that originated in the Caribbean and is known for its syncopated rhythms and upbeat tempo?",
+        "correct_answer": "Reggae",
+        "answer": "C",
+        "options": {
+            "a": "Blues",
+            "b": "Country",
+            "c": "Reggae",
+            "d": "Jazz"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name for a group of musicians who play together regularly?",
+        "correct_answer": "Band",
+        "answer": "A",
+        "options": {
+            "a": "Band",
+            "b": "Orchestra",
+            "c": "Choir",
+            "d": "Ensemble"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of music with a strong emphasis on storytelling and often features acoustic guitars?",
+        "correct_answer": "Folk",
+        "answer": "B",
+        "options": {
+            "a": "Pop",
+            "b": "Folk",
+            "c": "Rock",
+            "d": "Electronic"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device used to amplify the sound of an electric guitar?",
+        "correct_answer": "Amplifier",
+        "answer": "C",
+        "options": {
+            "a": "Tuner",
+            "b": "Pick",
+            "c": "Amplifier",
+            "d": "Metronome"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the movement between two notes of different pitch called?",
+        "correct_answer": "Interval",
+        "answer": "B",
+        "options": {
+            "a": "Melody",
+            "b": "Interval",
+            "c": "Harmony",
+            "d": "Rhythm"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a musical symbol that indicates a pause or silence for a specific duration?",
+        "correct_answer": "Rest",
+        "answer": "C",
+        "options": {
+            "a": "Clef",
+            "b": "Sharp",
+            "c": "Rest",
+            "d": "Bar"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of popular music that emerged in the 1950s and often features elements of rock and roll and rhythm and blues?",
+        "correct_answer": "Rockabilly",
+        "answer": "A",
+        "options": {
+            "a": "Rockabilly",
+            "b": "Disco",
+            "c": "Heavy Metal",
+            "d": "Pop"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device worn over the ears that allows you to listen to music privately?",
+        "correct_answer": "Headphones",
+        "answer": "D",
+        "options": {
+            "a": "Microphone",
+            "b": "Speaker",
+            "c": "Metronome",
+            "d": "Headphones"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the term used to describe music that is written down in sheet music?",
+        "correct_answer": "Notated",
+        "answer": "B",
+        "options": {
+            "a": "Improvised",
+            "b": "Notated",
+            "c": "Composed",
+            "d": "Performed"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large stringed instrument played with a bow, known for its deep, rich sound?",
+        "correct_answer": "Cello",
+        "answer": "A",
+        "options": {
+            "a": "Cello",
+            "b": "Guitar",
+            "c": "Violin",
+            "d": "Double Bass"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a genre of electronic music that is characterized by fast tempos and heavy use of synthesizers?",
+        "correct_answer": "Techno",
+        "answer": "C",
+        "options": {
+            "a": "Rock",
+            "b": "Pop",
+            "c": "Techno",
+            "d": "Country"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "MUSIC",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a musical term used to describe a piece of music that is sad or somber?",
+        "correct_answer": "Melancholy",
+        "answer": "B",
+        "options": {
+            "a": "Upbeat",
+            "b": "Melancholy",
+            "c": "Energetic",
+            "d": "Lowbeat"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a citizen?",
+        "correct_answer": "A person who legally belongs to a particular country",
+        "answer": "C",
+        "options": {
+            "a": "A tourist visiting a country",
+            "b": "A refugee seeking asylum",
+            "c": "A person who legally belongs to a particular country",
+            "d": "A diplomat representing another country"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a law?",
+        "correct_answer": "A rule that is enforced by a government",
+        "answer": "B",
+        "options": {
+            "a": "A suggestion for improvement",
+            "b": "A rule that is enforced by a government",
+            "c": "A treaty between countries",
+            "d": "A campaign slogan"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a tax?",
+        "correct_answer": "Money that is collected by a government from individuals or businesses",
+        "answer": "C",
+        "options": {
+            "a": "A fine for breaking a law",
+            "b": "A donation to charity",
+            "c": "Money that is collected by a government from individuals or businesses",
+            "d": "A fee for a service"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a candidate?",
+        "correct_answer": "A person who is running for an elected office",
+        "answer": "A",
+        "options": {
+            "a": "A person who is running for an elected office",
+            "b": "A person who has already been elected",
+            "c": "A volunteer for a political party",
+            "d": "A member of a government agency"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a voter?",
+        "correct_answer": "A person who is eligible to vote in an election",
+        "answer": "B",
+        "options": {
+            "a": "A person who works at a polling station",
+            "b": "A person who is eligible to vote in an election",
+            "c": "A person who donates money to a campaign",
+            "d": "A person who protests a political decision"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political campaign?",
+        "correct_answer": "The effort to get a candidate elected to office",
+        "answer": "B",
+        "options": {
+            "a": "A meeting between government officials",
+            "b": "The effort to get a candidate elected to office",
+            "c": "A law that is being debated",
+            "d": "A protest against a government policy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a lobbyist?",
+        "correct_answer": "A person who tries to influence legislation on behalf of a special interest group",
+        "answer": "C",
+        "options": {
+            "a": "A government lawyer",
+            "b": "A local politician",
+            "c": "A person who tries to influence legislation on behalf of a special interest group",
+            "d": "A spokesperson for a political party"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a coalition government?",
+        "correct_answer": "A government formed by two or more political parties working together",
+        "answer": "C",
+        "options": {
+            "a": "A government ruled by a single party",
+            "b": "A government led by a dictator",
+            "c": "A government formed by two or more political parties working together",
+            "d": "A government that has been overthrown"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a census?",
+        "correct_answer": "An official count of a population",
+        "answer": "B",
+        "options": {
+            "a": "A survey about political opinions",
+            "b": "An official count of a population",
+            "c": "A debate between political candidates",
+            "d": "A law that is being voted on"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a treaty?",
+        "correct_answer": "A formal agreement between two or more countries",
+        "answer": "C",
+        "options": {
+            "a": "A law passed by a legislature",
+            "b": "A campaign slogan",
+            "c": "A formal agreement between two or more countries",
+            "d": "A regulation set by a government agency"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political ideology?",
+        "correct_answer": "A set of beliefs about how society should be organized",
+        "answer": "B",
+        "options": {
+            "a": "A political party platform",
+            "b": "A set of beliefs about how society should be organized",
+            "c": "A biography of a political leader",
+            "d": "A specific policy proposal"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a civil servant?",
+        "correct_answer": "A government employee who works in a non-political role",
+        "answer": "A",
+        "options": {
+            "a": "A government employee who works in a non-political role",
+            "b": "A person who is running for elected office",
+            "c": "A volunteer for a political party",
+            "d": "A member of a military force"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a bureaucracy?",
+        "correct_answer": "The system of government agencies and their employees",
+        "answer": "B",
+        "options": {
+            "a": "A group of political parties working together",
+            "b": "The system of government agencies and their employees",
+            "c": "A law that restricts certain freedoms",
+            "d": "A type of international organization"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political platform?",
+        "correct_answer": "A statement of a political party's or candidate's beliefs and goals",
+        "answer": "A",
+        "options": {
+            "a": "A statement of a political party's or candidate's beliefs and goals",
+            "b": "A law that is being debated",
+            "c": "A biography of a political leader",
+            "d": "A slogan used in a political campaign"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a primary election?",
+        "correct_answer": "An election to choose a party's nominee for an office",
+        "answer": "B",
+        "options": {
+            "a": "A general election for all voters",
+            "b": "An election to choose a party's nominee for an office",
+            "c": "A special election to fill a vacancy",
+            "d": "A vote of no confidence in a leader"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political term?",
+        "correct_answer": "The length of time a person holds an elected office",
+        "answer": "C",
+        "options": {
+            "a": "A derogatory remark about a political opponent",
+            "b": "A nickname for a politician",
+            "c": "The length of time a person holds an elected office",
+            "d": "A specific policy issue"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is an impeachment?",
+        "correct_answer": "The process of formally accusing a government official of wrongdoing",
+        "answer": "A",
+        "options": {
+            "a": "The process of formally accusing a government official of wrongdoing",
+            "b": "The act of resigning from office",
+            "c": "A punishment for breaking a law",
+            "d": "A vote of confidence in a leader"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political party platform?",
+        "correct_answer": "A statement of a political party's beliefs and goals",
+        "answer": "C",
+        "options": {
+            "a": "A biography of a political leader",
+            "b": "A law that is being debated",
+            "c": "A statement of a political party's beliefs and goals",
+            "d": "A slogan used in a political campaign"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a civil society?",
+        "correct_answer": "The network of organizations and institutions that exist outside of the government",
+        "answer": "B",
+        "options": {
+            "a": "A group of government agencies working together",
+            "b": "The network of organizations and institutions that exist outside of the government",
+            "c": "A type of international organization",
+            "d": "The system of laws in a country"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a welfare state?",
+        "correct_answer": "A country that provides social programs to its citizens",
+        "answer": "D",
+        "options": {
+            "a": "A country with a strong military",
+            "b": "A country with a free market economy",
+            "c": "A country with a one-party system",
+            "d": "A country that provides social programs to its citizens"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a tariff?",
+        "correct_answer": "A tax on imported goods",
+        "answer": "C",
+        "options": {
+            "a": "A government subsidy for a business",
+            "b": "A type of international organization",
+            "c": "A tax on imported goods",
+            "d": "A fee for a government service"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political advisor?",
+        "correct_answer": "Someone who provides advice to a politician",
+        "answer": "B",
+        "options": {
+            "a": "A person who runs for elected office",
+            "b": "Someone who provides advice to a politician",
+            "c": "A spokesperson for a political party",
+            "d": "A volunteer for a political campaign"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political convention?",
+        "correct_answer": "A meeting where a political party nominates its candidates",
+        "answer": "A",
+        "options": {
+            "a": "A meeting where a political party nominates its candidates",
+            "b": "A debate between political candidates",
+            "c": "A law that is being voted on",
+            "d": "A protest against a government policy"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a political spectrum?",
+        "correct_answer": "A way of classifying political ideologies from left to right",
+        "answer": "B",
+        "options": {
+            "a": "A list of political parties in a country",
+            "b": "A way of classifying political ideologies from left to right",
+            "c": "A type of government agency",
+            "d": "The different levels of government in a country"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a ballot?",
+        "correct_answer": "A piece of paper used to vote in an election",
+        "answer": "A",
+        "options": {
+            "a": "A piece of paper used to vote in an election",
+            "b": "A campaign slogan",
+            "c": "A law that has been passed",
+            "d": "A petition to change a law"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the closest planet to the Sun?",
+        "correct_answer": "Mercury",
+        "answer": "A",
+        "options": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Mars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "answer": "C",
+        "options": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Jupiter",
+            "d": "Saturn"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the only natural satellite of Earth?",
+        "correct_answer": "Moon",
+        "answer": "B",
+        "options": {
+            "a": "Mars",
+            "b": "Moon",
+            "c": "Jupiter",
+            "d": "Venus"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a star made of?",
+        "correct_answer": "Mostly hydrogen and helium",
+        "answer": "C",
+        "options": {
+            "a": "Mostly rock and ice",
+            "b": "Mostly water",
+            "c": "Mostly hydrogen and helium",
+            "d": "Mostly metal"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of our galaxy?",
+        "correct_answer": "Milky Way",
+        "answer": "B",
+        "options": {
+            "a": "Andromeda",
+            "b": "Milky Way",
+            "c": "Solar System",
+            "d": "Universe"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is an astronaut?",
+        "correct_answer": "A person who travels in space",
+        "answer": "A",
+        "options": {
+            "a": "A person who travels in space",
+            "b": "An alien from another planet",
+            "c": "A scientist who studies space",
+            "d": "A robot that explores space"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a constellation?",
+        "correct_answer": "A group of stars that appear to form a pattern in the night sky",
+        "answer": "C",
+        "options": {
+            "a": "A planet orbiting a star",
+            "b": "A natural satellite of a planet",
+            "c": "A group of stars that appear to form a pattern in the night sky",
+            "d": "A large cloud of gas and dust in space"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a meteor?",
+        "correct_answer": "A rock or piece of ice from space that burns up in Earth's atmosphere",
+        "answer": "B",
+        "options": {
+            "a": "A natural satellite of a planet",
+            "b": "A rock or piece of ice from space that burns up in Earth's atmosphere",
+            "c": "A large object made of rock and ice that orbits the Sun",
+            "d": "A spacecraft used to explore space"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the first person to walk on the Moon?",
+        "correct_answer": "Neil Armstrong",
+        "answer": "A",
+        "options": {
+            "a": "Neil Armstrong",
+            "b": "Yuri Gagarin",
+            "c": "Buzz Aldrin",
+            "d": "Laika"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the atmosphere made of?",
+        "correct_answer": "Mostly nitrogen and oxygen",
+        "answer": "C",
+        "options": {
+            "a": "Mostly hydrogen and helium",
+            "b": "Mostly carbon dioxide",
+            "c": "Mostly nitrogen and oxygen",
+            "d": "Mostly rock and dust"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "How long does it take for light from the Sun to reach Earth?",
+        "correct_answer": "About 8 minutes",
+        "answer": "B",
+        "options": {
+            "a": "A few seconds",
+            "b": "About 8 minutes",
+            "c": "One hour",
+            "d": "One day"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a comet?",
+        "correct_answer": "An icy object that orbits the Sun and has a tail of gas and dust",
+        "answer": "C",
+        "options": {
+            "a": "A group of stars that appear to form a pattern",
+            "b": "A dwarf planet",
+            "c": "An icy object that orbits the Sun and has a tail of gas and dust",
+            "d": "A large cloud of gas and dust that forms new stars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the space agency of the United States?",
+        "correct_answer": "NASA",
+        "answer": "A",
+        "options": {
+            "a": "NASA",
+            "b": "ESA",
+            "c": "JAXA",
+            "d": "Roscosmos"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a black hole?",
+        "correct_answer": "A region in space where gravity is so strong that nothing, not even light, can escape",
+        "answer": "C",
+        "options": {
+            "a": "A large planet made mostly of gas",
+            "b": "A star that has collapsed",
+            "c": "A region in space where gravity is so strong that nothing, not even light, can escape",
+            "d": "A cloud of gas and dust where new stars are born"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest planet in our solar system by diameter?",
+        "correct_answer": "Jupiter",
+        "answer": "C",
+        "options": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Jupiter",
+            "d": "Saturn"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the hottest planet in our solar system?",
+        "correct_answer": "Venus",
+        "answer": "B",
+        "options": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Mars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the gas giant with the rings?",
+        "correct_answer": "Saturn",
+        "answer": "D",
+        "options": {
+            "a": "Jupiter",
+            "b": "Uranus",
+            "c": "Neptune",
+            "d": "Saturn"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the first artificial satellite launched into space?",
+        "correct_answer": "Sputnik 1",
+        "answer": "A",
+        "options": {
+            "a": "Sputnik 1",
+            "b": "Explorer 1",
+            "c": "Luna 1",
+            "d": "Apollo 11"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the International Space Station (ISS) used for?",
+        "correct_answer": "Scientific research and development of living in space for long periods",
+        "answer": "C",
+        "options": {
+            "a": "To observe the Earth",
+            "b": "To travel to the Moon",
+            "c": "Scientific research and development of living in space for long periods",
+            "d": "To send probes to other planets"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the largest moon in our solar system?",
+        "correct_answer": "Ganymede",
+        "answer": "A",
+        "options": {
+            "a": "Ganymede",
+            "b": "Titan",
+            "c": "Callisto",
+            "d": "Luna"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a nebula?",
+        "correct_answer": "A giant cloud of gas and dust in space where new stars are born",
+        "answer": "D",
+        "options": {
+            "a": "A group of stars that appear to form a pattern",
+            "b": "A dwarf planet",
+            "c": "An icy object that orbits the Sun",
+            "d": "A giant cloud of gas and dust in space where new stars are born"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the planet closest to the Sun?",
+        "correct_answer": "Mercury",
+        "answer": "A",
+        "options": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Mars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the red planet called?",
+        "correct_answer": "Mars",
+        "answer": "D",
+        "options": {
+            "a": "Jupiter",
+            "b": "Saturn",
+            "c": "Uranus",
+            "d": "Mars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a telescope used for?",
+        "correct_answer": "To observe distant objects in space",
+        "answer": "C",
+        "options": {
+            "a": "To study the weather",
+            "b": "To measure the speed of light",
+            "c": "To observe distant objects in space",
+            "d": "To communicate with satellites"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Space",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the fuel source for most rockets?",
+        "correct_answer": "Chemical propellants",
+        "answer": "B",
+        "options": {
+            "a": "Solar energy",
+            "b": "Chemical propellants",
+            "c": "Nuclear energy",
+            "d": "Gravity"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the highest point in basketball called?",
+        "correct_answer": "Dunk",
+        "answer": "B",
+        "options": {
+            "a": "Three-pointer",
+            "b": "Dunk",
+            "c": "Layup",
+            "d": "Free Throw"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the green jacket awarded to the winner of the Masters golf tournament?",
+        "correct_answer": "Green Jacket",
+        "answer": "A",
+        "options": {
+            "a": "Green Jacket",
+            "b": "Golden Trophy",
+            "c": "Champion's Cup",
+            "d": "Silver Medal"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by hitting a small, hollow ball over a net with rackets?",
+        "correct_answer": "Tennis",
+        "answer": "A",
+        "options": {
+            "a": "Tennis",
+            "b": "Badminton",
+            "c": "Volleyball",
+            "d": "Table Tennis"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by kicking or heading a ball into a goal?",
+        "correct_answer": "Soccer",
+        "answer": "B",
+        "options": {
+            "a": "American Football",
+            "b": "Soccer",
+            "c": "Rugby",
+            "d": "Basketball"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the prestigious cycling race held annually in France?",
+        "correct_answer": "Tour de France",
+        "answer": "C",
+        "options": {
+            "a": "Giro d'Italia",
+            "b": "Vuelta a España",
+            "c": "Tour de France",
+            "d": "Paris-Roubaix"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the competition that awards gold medals in various sporting events?",
+        "correct_answer": "Olympics",
+        "answer": "A",
+        "options": {
+            "a": "Olympics",
+            "b": "World Cup",
+            "c": "Super Bowl",
+            "d": "Champions League"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the square area in the center of a boxing ring?",
+        "correct_answer": "Ring",
+        "answer": "A",
+        "options": {
+            "a": "Ring",
+            "b": "Mat",
+            "c": "Cage",
+            "d": "Court"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players hit a white ball with a cue to pot other colored balls into pockets on a billiards table?",
+        "correct_answer": "Pool",
+        "answer": "B",
+        "options": {
+            "a": "Bowling",
+            "b": "Pool",
+            "c": "Snooker",
+            "d": "Ping Pong"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players use rackets to hit a shuttlecock back and forth over a net?",
+        "correct_answer": "Badminton",
+        "answer": "B",
+        "options": {
+            "a": "Tennis",
+            "b": "Badminton",
+            "c": "Table Tennis",
+            "d": "Volleyball"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players use sticks to hit a ball into a goal on a field?",
+        "correct_answer": "Field Hockey",
+        "answer": "C",
+        "options": {
+            "a": "Lacrosse",
+            "b": "Cricket",
+            "c": "Field Hockey",
+            "d": "Golf"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players use their hands to bump a ball over a net?",
+        "correct_answer": "Volleyball",
+        "answer": "D",
+        "options": {
+            "a": "Basketball",
+            "b": "Tennis",
+            "c": "Soccer",
+            "d": "Volleyball"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players race down a track on sleds reaching high speeds?",
+        "correct_answer": "Bobsleigh",
+        "answer": "A",
+        "options": {
+            "a": "Bobsleigh",
+            "b": "Luge",
+            "c": "Skeleton",
+            "d": "Curling"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players ride horses and compete in jumping over obstacles?",
+        "correct_answer": "Show Jumping",
+        "answer": "C",
+        "options": {
+            "a": "Dressage",
+            "b": "Polo",
+            "c": "Show Jumping",
+            "d": "Horse Racing"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by throwing a ball through a hoop to score points?",
+        "correct_answer": "Basketball",
+        "answer": "A",
+        "options": {
+            "a": "Basketball",
+            "b": "Tennis",
+            "c": "Volleyball",
+            "d": "Soccer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players use a club to hit a ball into a series of holes on a course?",
+        "correct_answer": "Golf",
+        "answer": "D",
+        "options": {
+            "a": "Baseball",
+            "b": "Tennis",
+            "c": "Cricket",
+            "d": "Golf"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the sport where gymnasts perform routines on various apparatus?",
+        "correct_answer": "Gymnastics",
+        "answer": "A",
+        "options": {
+            "a": "Gymnastics",
+            "b": "Figure Skating",
+            "c": "Diving",
+            "d": "Dance"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players hit a shuttlecock back and forth with badminton rackets across a net?",
+        "correct_answer": "Badminton",
+        "answer": "B",
+        "options": {
+            "a": "Tennis",
+            "b": "Badminton",
+            "c": "Table Tennis",
+            "d": "Volleyball"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by throwing a Frisbee into the opposing team's end zone?",
+        "correct_answer": "Ultimate Frisbee",
+        "answer": "C",
+        "options": {
+            "a": "Dodgeball",
+            "b": "Disc Golf",
+            "c": "Ultimate Frisbee",
+            "d": "Flag Football"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players race down a hill on a small sled with a single blade?",
+        "correct_answer": "Luge",
+        "answer": "B",
+        "options": {
+            "a": "Bobsleigh",
+            "b": "Luge",
+            "c": "Skeleton",
+            "d": "Snowboarding"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players strike a ball with a mallet and try to navigate it through hoops on a course?",
+        "correct_answer": "Croquet",
+        "answer": "D",
+        "options": {
+            "a": "Bowling",
+            "b": "Miniature Golf",
+            "c": "Polo",
+            "d": "Croquet"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by hitting a volleyball back and forth over a net?",
+        "correct_answer": "Volleyball",
+        "answer": "A",
+        "options": {
+            "a": "Volleyball",
+            "b": "Basketball",
+            "c": "Tennis",
+            "d": "Badminton"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where a rider races a horse around a course with jumps?",
+        "correct_answer": "Horse Racing",
+        "answer": "A",
+        "options": {
+            "a": "Horse Racing",
+            "b": "Show Jumping",
+            "c": "Polo",
+            "d": "Dressage"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by throwing a ball over a net, using their hands to hit the ball?",
+        "correct_answer": "Volleyball",
+        "answer": "C",
+        "options": {
+            "a": "Basketball",
+            "b": "Tennis",
+            "c": "Volleyball",
+            "d": "Badminton"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where players use rackets to hit a tennis ball back and forth over a net?",
+        "correct_answer": "Tennis",
+        "answer": "B",
+        "options": {
+            "a": "Badminton",
+            "b": "Tennis",
+            "c": "Table Tennis",
+            "d": "Squash"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "SPORTS",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the name of the sport where two teams compete by running with an oval-shaped ball and trying to score by grounding it in the opponent's end zone?",
+        "correct_answer": "Rugby",
+        "answer": "C",
+        "options": {
+            "a": "American Football",
+            "b": "Soccer",
+            "c": "Rugby",
+            "d": "Australian Rules Football"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device with a touchscreen that you can use to browse the internet, play games, and watch videos?",
+        "correct_answer": "Tablet",
+        "answer": "A",
+        "options": {
+            "a": "Tablet",
+            "b": "Desktop computer",
+            "c": "Laptop",
+            "d": "Smartphone"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a portable device with a keyboard that you can use to work on documents, browse the internet, and send emails?",
+        "correct_answer": "Laptop",
+        "answer": "C",
+        "options": {
+            "a": "Tablet",
+            "b": "Desktop computer",
+            "c": "Laptop",
+            "d": "Printer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a large computer that is typically used in an office or home setting?",
+        "correct_answer": "Desktop computer",
+        "answer": "B",
+        "options": {
+            "a": "Tablet",
+            "b": "Desktop computer",
+            "c": "Laptop",
+            "d": "Smartphone"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device you can use to take pictures and record videos?",
+        "correct_answer": "Camera",
+        "answer": "D",
+        "options": {
+            "a": "Printer",
+            "b": "Scanner",
+            "c": "Mouse",
+            "d": "Camera"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that allows you to print documents and photos?",
+        "correct_answer": "Printer",
+        "answer": "A",
+        "options": {
+            "a": "Printer",
+            "b": "Scanner",
+            "c": "Keyboard",
+            "d": "Mouse"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device used to scan physical documents and convert them into digital files?",
+        "correct_answer": "Scanner",
+        "answer": "B",
+        "options": {
+            "a": "Projector",
+            "b": "Scanner",
+            "c": "Webcam",
+            "d": "Headphones"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a worldwide network of computers that allows you to communicate and share information?",
+        "correct_answer": "Internet",
+        "answer": "C",
+        "options": {
+            "a": "Email",
+            "b": "Website",
+            "c": "Internet",
+            "d": "Search engine"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a program that allows you to browse the internet?",
+        "correct_answer": "Web browser",
+        "answer": "D",
+        "options": {
+            "a": "Email client",
+            "b": "Word processor",
+            "c": "Spreadsheet",
+            "d": "Web browser"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that plugs into a computer and allows you to use an external display?",
+        "correct_answer": "Monitor",
+        "answer": "B",
+        "options": {
+            "a": "Router",
+            "b": "Monitor",
+            "c": "Keyboard",
+            "d": "Webcam"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of computer software that helps you perform specific tasks?",
+        "correct_answer": "Application",
+        "answer": "A",
+        "options": {
+            "a": "Application",
+            "b": "Hardware",
+            "c": "Operating system",
+            "d": "Internet browser"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a wireless device that allows you to connect to the internet?",
+        "correct_answer": "Wi-Fi router",
+        "answer": "C",
+        "options": {
+            "a": "Webcam",
+            "b": "Scanner",
+            "c": "Wi-Fi router",
+            "d": "Printer"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of computer storage device used to store large amounts of data?",
+        "correct_answer": "Hard drive",
+        "answer": "D",
+        "options": {
+            "a": "CPU",
+            "b": "RAM",
+            "c": "Keyboard",
+            "d": "Hard drive"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a term used to describe a shortened version of a web address?",
+        "correct_answer": "URL",
+        "answer": "B",
+        "options": {
+            "a": "Search engine",
+            "b": "URL",
+            "c": "Website",
+            "d": "Browser"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device worn on the head that allows you to hear sound from a computer?",
+        "correct_answer": "Headphones",
+        "answer": "C",
+        "options": {
+            "a": "Microphone",
+            "b": "Speaker",
+            "c": "Headphones",
+            "d": "Webcam"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of social media platform that allows users to share photos and videos?",
+        "correct_answer": "Photo sharing platform",
+        "answer": "A",
+        "options": {
+            "a": "Photo sharing platform",
+            "b": "Search engine",
+            "c": "Email client",
+            "d": "Web browser"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that allows you to control a computer using a beam of light?",
+        "correct_answer": "Mouse",
+        "answer": "C",
+        "options": {
+            "a": "Joystick",
+            "b": "Touchpad",
+            "c": "Mouse",
+            "d": "Keyboard"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of computer chip that is responsible for central processing tasks?",
+        "correct_answer": "CPU",
+        "answer": "A",
+        "options": {
+            "a": "CPU",
+            "b": "RAM",
+            "c": "Hard drive",
+            "d": "Webcam"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a software program that helps you create presentations?",
+        "correct_answer": "Presentation software",
+        "answer": "B",
+        "options": {
+            "a": "Web browser",
+            "b": "Presentation software",
+            "c": "Word processor",
+            "d": "Spreadsheet software"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that allows you to type text into a computer?",
+        "correct_answer": "Keyboard",
+        "answer": "D",
+        "options": {
+            "a": "Scanner",
+            "b": "Printer",
+            "c": "Mouse",
+            "d": "Keyboard"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of computer memory that temporarily stores data while the computer is on?",
+        "correct_answer": "RAM",
+        "answer": "B",
+        "options": {
+            "a": "Hard drive",
+            "b": "RAM",
+            "c": "CPU",
+            "d": "Storage device"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What do you call a computer program that allows you to download files from the internet?",
+        "correct_answer": "Download manager",
+        "answer": "C",
+        "options": {
+            "a": "Search engine",
+            "b": "Web browser",
+            "c": "Download manager",
+            "d": "Email client"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that allows you to connect multiple computers to a network?",
+        "correct_answer": "Switch",
+        "answer": "A",
+        "options": {
+            "a": "Switch",
+            "b": "Router",
+            "c": "Modem",
+            "d": "Cable"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a term used to describe a computer program that helps you organize your digital files?",
+        "correct_answer": "File manager",
+        "answer": "D",
+        "options": {
+            "a": "Web browser",
+            "b": "Word processor",
+            "c": "Spreadsheet software",
+            "d": "File manager"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a portable storage device that you can use to transfer data between computers?",
+        "correct_answer": "Flash drive",
+        "answer": "B",
+        "options": {
+            "a": "Hard drive",
+            "b": "Flash drive",
+            "c": "DVD",
+            "d": "SD card"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a type of computer software that allows you to edit photos?",
+        "correct_answer": "Photo editing software",
+        "answer": "C",
+        "options": {
+            "a": "Web browser",
+            "b": "Email client",
+            "c": "Photo editing software",
+            "d": "Presentation software"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a term used to describe a software program that protects your computer from viruses?",
+        "correct_answer": "Antivirus software",
+        "answer": "A",
+        "options": {
+            "a": "Antivirus software",
+            "b": "Operating system",
+            "c": "Web browser",
+            "d": "Download manager"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "TECHNOLOGY",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a device that allows you to see yourself on a video call?",
+        "correct_answer": "Webcam",
+        "answer": "D",
+        "options": {
+            "a": "Microphone",
+            "b": "Speaker",
+            "c": "Headphones",
+            "d": "Webcam"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the study of living things?",
+        "correct_answer": "Biology",
+        "answer": "B",
+        "options": {
+            "a": "Chemistry",
+            "b": "Biology",
+            "c": "Physics",
+            "d": "Geology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the smallest unit of life?",
+        "correct_answer": "Cell",
+        "answer": "C",
+        "options": {
+            "a": "Atom",
+            "b": "Organ",
+            "c": "Cell",
+            "d": "Tissue"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the building blocks of all matter?",
+        "correct_answer": "Atoms",
+        "answer": "A",
+        "options": {
+            "a": "Atoms",
+            "b": "Molecules",
+            "c": "Cells",
+            "d": "Tissues"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the force that pulls objects towards the Earth?",
+        "correct_answer": "Gravity",
+        "answer": "D",
+        "options": {
+            "a": "Magnetism",
+            "b": "Friction",
+            "c": "Electricity",
+            "d": "Gravity"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the four states of matter?",
+        "correct_answer": "Solid, liquid, gas, and plasma",
+        "answer": "D",
+        "options": {
+            "a": "Hot, cold, wet, dry",
+            "b": "Big, small, round, square",
+            "c": "Wood, metal, plastic, glass",
+            "d": "Solid, liquid, gas, and plasma"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which plants use sunlight to make food?",
+        "correct_answer": "Photosynthesis",
+        "answer": "C",
+        "options": {
+            "a": "Respiration",
+            "b": "Evaporation",
+            "c": "Photosynthesis",
+            "d": "Decomposition"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the study of weather?",
+        "correct_answer": "Meteorology",
+        "answer": "B",
+        "options": {
+            "a": "Astronomy",
+            "b": "Meteorology",
+            "c": "Geology",
+            "d": "Oceanography"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the study of the Earth?",
+        "correct_answer": "Geology",
+        "answer": "C",
+        "options": {
+            "a": "Biology",
+            "b": "Chemistry",
+            "c": "Geology",
+            "d": "Physics"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the different parts of a plant called?",
+        "correct_answer": "Organs",
+        "answer": "C",
+        "options": {
+            "a": "Tissues",
+            "b": "Cells",
+            "c": "Organs",
+            "d": "Molecules"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which animals break down food for energy?",
+        "correct_answer": "Digestion",
+        "answer": "A",
+        "options": {
+            "a": "Digestion",
+            "b": "Respiration",
+            "c": "Circulation",
+            "d": "Excretion"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the five senses?",
+        "correct_answer": "Touch, taste, smell, sight, and hearing",
+        "answer": "D",
+        "options": {
+            "a": "Sight, sound, smell, taste, balance",
+            "b": "Thinking, feeling, smelling, tasting, hearing",
+            "c": "Seeing, smelling, breathing, tasting, touching",
+            "d": "Touch, taste, smell, sight, and hearing"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the unit of measurement for temperature?",
+        "correct_answer": "Degrees Celsius (°C) or Fahrenheit (°F)",
+        "answer": "D",
+        "options": {
+            "a": "Grams (g)",
+            "b": "Meters (m)",
+            "c": "Liters (L)",
+            "d": "Degrees Celsius (°C) or Fahrenheit (°F)"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process called when water changes from a liquid to a gas?",
+        "correct_answer": "Evaporation",
+        "answer": "B",
+        "options": {
+            "a": "Condensation",
+            "b": "Evaporation",
+            "c": "Precipitation",
+            "d": "Freezing"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the scientific study of insects?",
+        "correct_answer": "Entomology",
+        "answer": "C",
+        "options": {
+            "a": "Paleontology",
+            "b": "Zoology",
+            "c": "Entomology",
+            "d": "Herpetology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "answer": "A",
+        "options": {
+            "a": "Jupiter",
+            "b": "Saturn",
+            "c": "Earth",
+            "d": "Mars"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which rocks are broken down over time?",
+        "correct_answer": "Weathering",
+        "answer": "B",
+        "options": {
+            "a": "Erosion",
+            "b": "Weathering",
+            "c": "Sedimentation",
+            "d": "Metamorphism"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the part of a cell that controls its activities?",
+        "correct_answer": "Nucleus",
+        "answer": "A",
+        "options": {
+            "a": "Nucleus",
+            "b": "Cytoplasm",
+            "c": "Mitochondria",
+            "d": "Cell membrane"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is a balanced diet?",
+        "correct_answer": "A diet that includes all the essential food groups",
+        "answer": "C",
+        "options": {
+            "a": "A diet that is low in calories",
+            "b": "A diet that is mostly fast food",
+            "c": "A diet that includes all the essential food groups",
+            "d": "A diet that is high in protein"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the scientific study of dinosaurs?",
+        "correct_answer": "Paleontology",
+        "answer": "A",
+        "options": {
+            "a": "Paleontology",
+            "b": "Ecology",
+            "c": "Zoology",
+            "d": "Meteorology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the protective layer of gas surrounding Earth?",
+        "correct_answer": "Atmosphere",
+        "answer": "B",
+        "options": {
+            "a": "Ozone layer",
+            "b": "Atmosphere",
+            "c": "Biosphere",
+            "d": "Hydrosphere"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which sound travels?",
+        "correct_answer": "Vibrations",
+        "answer": "C",
+        "options": {
+            "a": "Light",
+            "b": "Electricity",
+            "c": "Vibrations",
+            "d": "Gravity"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the scientific study of weather patterns?",
+        "correct_answer": "Climatology",
+        "answer": "D",
+        "options": {
+            "a": "Geology",
+            "b": "Astronomy",
+            "c": "Meteorology",
+            "d": "Climatology"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which plants lose water vapor through their leaves?",
+        "correct_answer": "Transpiration",
+        "answer": "A",
+        "options": {
+            "a": "Transpiration",
+            "b": "Photosynthesis",
+            "c": "Cellular respiration",
+            "d": "Decomposition"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What are the building blocks of proteins?",
+        "correct_answer": "Amino acids",
+        "answer": "B",
+        "options": {
+            "a": "Nucleotides",
+            "b": "Amino acids",
+            "c": "Carbohydrates",
+            "d": "Fats"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the scientific study of stars and planets?",
+        "correct_answer": "Astronomy",
+        "answer": "B",
+        "options": {
+            "a": "Physics",
+            "b": "Astronomy",
+            "c": "Biology",
+            "d": "Chemistry"
+        }
+    },
+    {
+        "FlipQuestion": false,
+        "category": "Science",
+        "type": "multiple",
+        "difficulty": "easy",
+        "Question": "What is the process by which fossils are formed?",
+        "correct_answer": "Petrification",
+        "answer": "C",
+        "options": {
+            "a": "Erosion",
+            "b": "Weathering",
+            "c": "Petrification",
+            "d": "Decomposition"
+        }
+    }
+]

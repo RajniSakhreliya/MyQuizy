@@ -1,0 +1,107 @@
+[
+  {
+    "category": "GENERAL KNOWLEDGE",
+    "coin": "200",
+    "Entry": 20,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_gk.png"
+  },
+{
+    "category": "SCIENCE",
+    "coin": "150",
+    "Entry": 50,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_science.png"
+  },
+  {
+    "category": "GEOGRAPHY",
+    "coin": "100",
+    "Entry": 10,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_geography.png"
+  },
+  {
+    "category": "LITERATURE",
+    "coin": "150",
+    "Entry": 30,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_science.png"
+  },
+  {
+    "category": "POLITICS",
+    "coin": "100",
+    "Entry": 0,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_politics.png"
+  },
+  {
+    "category": "SPORTS",
+    "coin": "300",
+    "Entry": 100,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_sports.png"
+  },
+  {
+    "category": "MUSIC",
+    "coin": "100",
+    "Entry": 30,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_music.png"
+  },
+  {
+    "category": "HISTORY",
+    "coin": "250",
+    "Entry": 25,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_history.png"
+  },
+  {
+    "category": "TECHNOLOGY",
+    "coin": "100",
+    "Entry": 10,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_technology.png"
+  },
+  {
+    "category": "MOVIES",
+    "coin": "200",
+    "Entry": 20,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_movies.png"
+  },
+  {
+    "category": "MATHEMATICS",
+    "coin": "300",
+    "Entry": 100,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_maths.png"
+  },
+  {
+    "category": "SPACE",
+    "coin": "500cat_space",
+    "Entry": 100,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_space.png"
+  },
+  {
+    "category": "ENTERTAINMENT",
+    "coin": "100",
+    "Entry": 0,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_entertainment.png"
+  },
+  {
+    "category": "ECONOMIS",
+    "coin": "100",
+    "Entry": 10,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_economics.png"
+  },
+  {
+    "category": "ART",
+    "coin": "100",
+    "Entry": 0,
+    "UsersPlaying": 100,
+    "img": "./cat_images/cat_art.png"
+  }
+]

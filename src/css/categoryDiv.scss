@@ -1,0 +1,144 @@
+.ContestsScience {
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
+    flex-direction: row;
+    border-radius: 10px;
+    margin-top: 5%;
+    background-color: #1A202C;
+    justify-content: center;
+
+    .Contests-componet {
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 100%;
+        border-radius: 10px;
+        padding: 10px;
+
+        .ContestsImg-componet {
+            width: 10%;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .ContestsDerivation-componet {
+            width: 70%;
+            // background-color: red;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 4px 8px;
+
+            .live {
+                color: #0BCBFF;
+
+                h4 {
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+
+                    .Lottie {
+                        margin-right: 3px;
+                    }
+                }
+            }
+
+            .winCoin-componet {
+
+                h2 {
+                    font-weight: 400;
+                }
+            }
+
+            .entryCoin-componet {
+                display: flex;
+                flex-direction: row;
+                width: 90%;
+                justify-content: space-between;
+                font-size: 13px;
+            }
+
+            .category-title {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                font-size: 10px;
+                margin-left: 5px;
+            }
+        }
+
+        .ContestsPlay-btn {
+            width: 20%;
+
+            button {
+                background: linear-gradient(to top, #00000000, #00000000);
+                border: none;
+                outline: none;
+                border-radius: 5px;
+                width: 90%;
+                padding: 1px;
+
+                div {
+                    width: 99%;
+                    height: 99%;
+                    background-color: #00a1ec;
+                    border-radius: 5px;
+                    padding: 10% 7%;
+                    color: #fff;
+                    font-weight: bold;
+                }
+            }
+        }
+
+        .Contests-SCIENCE {
+            display: flex;
+            justify-content: left;
+            text-align: left;
+            align-items: center;
+            margin-left: 10%;
+            width: 200% !important;
+
+            .Contests-coin {
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+                margin: auto;
+                margin-bottom: 0 !important;
+            }
+        }
+    }
+
+    .Contests-Entry {
+        display: flex;
+        align-items: center;
+        margin: auto;
+        border-radius: 0 0 10px 10px;
+        padding: 1%;
+
+        p {
+            margin-right: 10%;
+        }
+
+        button {
+            box-shadow: inset 9px 9px 14px -2px rgba(188, 188, 188, 0.48), inset -9px -9px 14px -2px rgba(0, 0, 0, 0.48);
+            background: #e9711f;
+            border: none;
+            outline: none;
+            width: 30%;
+            height: 5ch;
+            color: #fff;
+            border-radius: 10px;
+            margin: 2%;
+
+
+            &:active {
+                box-shadow: inset 9px 9px 14px -2px rgba(0, 0, 0, 0.48), inset -9px -9px 14px -2px rgba(113, 113, 113, 0.48);
+            }
+        }
+    }
+}

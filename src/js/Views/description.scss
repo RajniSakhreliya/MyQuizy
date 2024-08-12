@@ -1,0 +1,41 @@
+.description {
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    
+    .descTitle{
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+    }
+
+    .PlayQuiz {
+        justify-content: left;
+        text-align: left;
+        align-self: center;
+
+        .description-container {
+            display: flex;
+            margin-top: 10px;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 99%;
+        }
+
+        .description-line {
+            display: flex;
+            margin: 5px 0px;
+            justify-content: flex-start;
+            font-size: 14px;
+
+            .description-img {
+                margin-right: 10px;
+            }
+        }
+
+        .o {
+            font-size: 55px;
+            align-items: flex-start;
+        }
+    }
+}

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: montserrat;
+  src: url('../assets/MONTSERRAT-REGULAR.TTF');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  user-select: none;
+  font-family: montserrat !important;
+
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+body {
+  margin: 0;
+  font-family: montserrat !important;
+  font-size: 12px !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+  scrollbar-width: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) and (max-width: 768px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 465px) {
+  body {
+    font-size: 12px;
+  }
+}
