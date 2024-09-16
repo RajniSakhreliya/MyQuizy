@@ -76,7 +76,6 @@ const Score = () => {
 
   if (localStorage.getItem('categoryData')) {
     var datas = JSON.parse(atob(localStorage.getItem('categoryData')))
-    console.log(datas);
   } else {
     let datas = ''
     return

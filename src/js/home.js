@@ -353,6 +353,7 @@ const Home = () => {
             const data = await JSON.parse((localStorage.getItem('QuestionDatas')));
 
             let dataFilter = data.filter(name => name.FlipQuestion == false);
+console.log(data);
 
             if (dataFilter.length > 20) {
                 dataFilter.splice(20);
@@ -372,6 +373,8 @@ const Home = () => {
 
             })
         } catch (error) {
+            console.log(error);
+            
         }
     }
 
@@ -380,11 +383,10 @@ const Home = () => {
     const getCategoryData = async () => {
         try {
             let datas = await JSON.parse(atob(localStorage.getItem('categoryData')))
-
             let dataFilter = await datas.filter(category => category.category == localStorage.getItem('categoryKey'));
 
             dataFilter.map((categoryData) => {
-                setCategoryData(categoryData)
+                setCategoryData(categoryData);
             });
         } catch (error) {
         }
@@ -498,29 +500,6 @@ const Home = () => {
     }
 
     const { innerWidth: width, innerHeight: height } = window;
-
-    useEffect(() => {
-        const pushAd = () => {
-            try {
-                const adsbygoogle = window.adsbygoogle
-                adsbygoogle.push({})
-            } catch (e) {
-                console.log("Error : " + e)
-            }
-        }
-
-        let interval = setInterval(() => {
-            if (window.adsbygoogle) {
-                pushAd()
-                clearInterval(interval)
-            }
-        }, 300)
-
-        return () => {
-            clearInterval(interval)
-        }
-
-    }, [])
 
     return (
         <div className="home" style={{ minHeight: height }}>
