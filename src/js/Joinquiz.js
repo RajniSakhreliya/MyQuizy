@@ -54,7 +54,6 @@ const Joinquiz = () => {
 
             let dataFilter = datas.filter(category => category.category == localStorage.getItem('categoryKey'))
             let Filter = data.filter(data => (data.category.toLowerCase()) == localStorage.getItem('categoryKey').toLowerCase())
-            console.log(Filter);
             
             localStorage.setItem('QuestionDatas', (JSON.stringify(Filter)))
 

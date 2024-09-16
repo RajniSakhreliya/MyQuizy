@@ -353,7 +353,6 @@ const Home = () => {
             const data = await JSON.parse((localStorage.getItem('QuestionDatas')));
 
             let dataFilter = data.filter(name => name.FlipQuestion == false);
-console.log(data);
 
             if (dataFilter.length > 20) {
                 dataFilter.splice(20);
@@ -373,7 +372,6 @@ console.log(data);
 
             })
         } catch (error) {
-            console.log(error);
             
         }
     }
