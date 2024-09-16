@@ -381,7 +381,7 @@ const Home = () => {
     const getCategoryData = async () => {
         try {
             let datas = await JSON.parse(atob(localStorage.getItem('categoryData')))
-            let dataFilter = await datas.filter(category => category.category == localStorage.getItem('categoryKey'));
+            let dataFilter = await datas.filter(category => (category.category.toLowerCase()) == localStorage.getItem('categoryKey').toLowerCase());
 
             dataFilter.map((categoryData) => {
                 setCategoryData(categoryData);
